@@ -4,6 +4,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 @prefix p: <http://www.wikidata.org/prop/> .
 
 <urn:mdciii:1603:16()>
@@ -28,95 +29,111 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:10" ;
-    skos:prefLabel "Łódzkie"@pol-Latn .
+    skos:prefLabel "Łódzkie"@pol-Latn ;
+    wdata:q7200235 "PL010" .
 
 <urn:mdciii:1603:16:616:1:12>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:12" ;
-    skos:prefLabel "Małopolskie"@pol-Latn .
+    skos:prefLabel "Małopolskie"@pol-Latn ;
+    wdata:q7200235 "PL012" .
 
 <urn:mdciii:1603:16:616:1:14>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:14" ;
-    skos:prefLabel "Mazowieckie"@pol-Latn .
+    skos:prefLabel "Mazowieckie"@pol-Latn ;
+    wdata:q7200235 "PL014" .
 
 <urn:mdciii:1603:16:616:1:16>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:16" ;
-    skos:prefLabel "Opolskie"@pol-Latn .
+    skos:prefLabel "Opolskie"@pol-Latn ;
+    wdata:q7200235 "PL016" .
 
 <urn:mdciii:1603:16:616:1:18>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:18" ;
-    skos:prefLabel "Podkarpackie"@pol-Latn .
+    skos:prefLabel "Podkarpackie"@pol-Latn ;
+    wdata:q7200235 "PL018" .
 
 <urn:mdciii:1603:16:616:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:2" ;
-    skos:prefLabel "Dolnośląskie"@pol-Latn .
+    skos:prefLabel "Dolnośląskie"@pol-Latn ;
+    wdata:q7200235 "PL002" .
 
 <urn:mdciii:1603:16:616:1:20>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:20" ;
-    skos:prefLabel "Podlaskie"@pol-Latn .
+    skos:prefLabel "Podlaskie"@pol-Latn ;
+    wdata:q7200235 "PL020" .
 
 <urn:mdciii:1603:16:616:1:22>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:22" ;
-    skos:prefLabel "Pomorskie"@pol-Latn .
+    skos:prefLabel "Pomorskie"@pol-Latn ;
+    wdata:q7200235 "PL022" .
 
 <urn:mdciii:1603:16:616:1:24>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:24" ;
-    skos:prefLabel "Śląskie"@pol-Latn .
+    skos:prefLabel "Śląskie"@pol-Latn ;
+    wdata:q7200235 "PL024" .
 
 <urn:mdciii:1603:16:616:1:26>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:26" ;
-    skos:prefLabel "Świętokrzyskie"@pol-Latn .
+    skos:prefLabel "Świętokrzyskie"@pol-Latn ;
+    wdata:q7200235 "PL026" .
 
 <urn:mdciii:1603:16:616:1:28>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:28" ;
-    skos:prefLabel "Warmińsko-Mazurskie"@pol-Latn .
+    skos:prefLabel "Warmińsko-Mazurskie"@pol-Latn ;
+    wdata:q7200235 "PL028" .
 
 <urn:mdciii:1603:16:616:1:30>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:30" ;
-    skos:prefLabel "Wielkopolskie"@pol-Latn .
+    skos:prefLabel "Wielkopolskie"@pol-Latn ;
+    wdata:q7200235 "PL030" .
 
 <urn:mdciii:1603:16:616:1:32>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:32" ;
-    skos:prefLabel "Zachodniopomorskie"@pol-Latn .
+    skos:prefLabel "Zachodniopomorskie"@pol-Latn ;
+    wdata:q7200235 "PL032" .
 
 <urn:mdciii:1603:16:616:1:4>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:4" ;
-    skos:prefLabel "Kujawsko-Pomorskie"@pol-Latn .
+    skos:prefLabel "Kujawsko-Pomorskie"@pol-Latn ;
+    wdata:q7200235 "PL004" .
 
 <urn:mdciii:1603:16:616:1:6>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:6" ;
-    skos:prefLabel "Lubelskie"@pol-Latn .
+    skos:prefLabel "Lubelskie"@pol-Latn ;
+    wdata:q7200235 "PL006" .
 
 <urn:mdciii:1603:16:616:1:8>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:616:1:8" ;
-    skos:prefLabel "Lubuskie"@pol-Latn .
+    skos:prefLabel "Lubuskie"@pol-Latn ;
+    wdata:q7200235 "PL008" .
 
