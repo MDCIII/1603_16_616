@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:616()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:2" ;
     skos:prefLabel "Dolnośląskie"@pol-Latn ;
-    wdata:q7200235 "PL002" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -55,7 +53,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:10" ;
     skos:prefLabel "Łódzkie"@pol-Latn ;
-    wdata:q7200235 "PL010" ;
 .
 
 <urn:mdciii:1603:16:616:1:12>
@@ -64,7 +61,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:12" ;
     skos:prefLabel "Małopolskie"@pol-Latn ;
-    wdata:q7200235 "PL012" ;
 .
 
 <urn:mdciii:1603:16:616:1:14>
@@ -73,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:14" ;
     skos:prefLabel "Mazowieckie"@pol-Latn ;
-    wdata:q7200235 "PL014" ;
 .
 
 <urn:mdciii:1603:16:616:1:16>
@@ -82,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:16" ;
     skos:prefLabel "Opolskie"@pol-Latn ;
-    wdata:q7200235 "PL016" ;
 .
 
 <urn:mdciii:1603:16:616:1:18>
@@ -91,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:18" ;
     skos:prefLabel "Podkarpackie"@pol-Latn ;
-    wdata:q7200235 "PL018" ;
 .
 
 <urn:mdciii:1603:16:616:1:20>
@@ -100,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:20" ;
     skos:prefLabel "Podlaskie"@pol-Latn ;
-    wdata:q7200235 "PL020" ;
 .
 
 <urn:mdciii:1603:16:616:1:22>
@@ -109,7 +101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:22" ;
     skos:prefLabel "Pomorskie"@pol-Latn ;
-    wdata:q7200235 "PL022" ;
 .
 
 <urn:mdciii:1603:16:616:1:24>
@@ -118,7 +109,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:24" ;
     skos:prefLabel "Śląskie"@pol-Latn ;
-    wdata:q7200235 "PL024" ;
 .
 
 <urn:mdciii:1603:16:616:1:26>
@@ -127,7 +117,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:26" ;
     skos:prefLabel "Świętokrzyskie"@pol-Latn ;
-    wdata:q7200235 "PL026" ;
 .
 
 <urn:mdciii:1603:16:616:1:28>
@@ -136,7 +125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:28" ;
     skos:prefLabel "Warmińsko-Mazurskie"@pol-Latn ;
-    wdata:q7200235 "PL028" ;
 .
 
 <urn:mdciii:1603:16:616:1:30>
@@ -145,7 +133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:30" ;
     skos:prefLabel "Wielkopolskie"@pol-Latn ;
-    wdata:q7200235 "PL030" ;
 .
 
 <urn:mdciii:1603:16:616:1:32>
@@ -154,7 +141,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:32" ;
     skos:prefLabel "Zachodniopomorskie"@pol-Latn ;
-    wdata:q7200235 "PL032" ;
 .
 
 <urn:mdciii:1603:16:616:1:4>
@@ -163,7 +149,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:4" ;
     skos:prefLabel "Kujawsko-Pomorskie"@pol-Latn ;
-    wdata:q7200235 "PL004" ;
 .
 
 <urn:mdciii:1603:16:616:1:6>
@@ -172,7 +157,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:6" ;
     skos:prefLabel "Lubelskie"@pol-Latn ;
-    wdata:q7200235 "PL006" ;
 .
 
 <urn:mdciii:1603:16:616:1:8>
@@ -181,6 +165,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:616:1:8" ;
     skos:prefLabel "Lubuskie"@pol-Latn ;
-    wdata:q7200235 "PL008" ;
 .
 
