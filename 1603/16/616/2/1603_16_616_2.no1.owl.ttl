@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Boleslawiecki"@pol-Latn ;
-    wdata:q7200235 "PL002001" ;
+    wdata:Q7200235 "PL002001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -426,7 +426,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Belchatowski"@pol-Latn ;
-    wdata:q7200235 "PL010001" ;
+    wdata:Q7200235 "PL010001" ;
 .
 
 <urn:mdciii:1603:16:616:2:10002>
@@ -438,7 +438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Kutnowski"@pol-Latn ;
-    wdata:q7200235 "PL010002" ;
+    wdata:Q7200235 "PL010002" ;
 .
 
 <urn:mdciii:1603:16:616:2:10003>
@@ -450,7 +450,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Laski"@pol-Latn ;
-    wdata:q7200235 "PL010003" ;
+    wdata:Q7200235 "PL010003" ;
 .
 
 <urn:mdciii:1603:16:616:2:10004>
@@ -462,7 +462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Leczycki"@pol-Latn ;
-    wdata:q7200235 "PL010004" ;
+    wdata:Q7200235 "PL010004" ;
 .
 
 <urn:mdciii:1603:16:616:2:10005>
@@ -474,7 +474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Lowicki"@pol-Latn ;
-    wdata:q7200235 "PL010005" ;
+    wdata:Q7200235 "PL010005" ;
 .
 
 <urn:mdciii:1603:16:616:2:10006>
@@ -486,7 +486,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Lodzki Wschodni"@pol-Latn ;
-    wdata:q7200235 "PL010006" ;
+    wdata:Q7200235 "PL010006" ;
 .
 
 <urn:mdciii:1603:16:616:2:10007>
@@ -498,7 +498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Opoczynski"@pol-Latn ;
-    wdata:q7200235 "PL010007" ;
+    wdata:Q7200235 "PL010007" ;
 .
 
 <urn:mdciii:1603:16:616:2:10008>
@@ -510,7 +510,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Pabianicki"@pol-Latn ;
-    wdata:q7200235 "PL010008" ;
+    wdata:Q7200235 "PL010008" ;
 .
 
 <urn:mdciii:1603:16:616:2:10009>
@@ -522,7 +522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Pajeczanski"@pol-Latn ;
-    wdata:q7200235 "PL010009" ;
+    wdata:Q7200235 "PL010009" ;
 .
 
 <urn:mdciii:1603:16:616:2:10010>
@@ -534,7 +534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Piotrkowski"@pol-Latn ;
-    wdata:q7200235 "PL010010" ;
+    wdata:Q7200235 "PL010010" ;
 .
 
 <urn:mdciii:1603:16:616:2:10011>
@@ -546,7 +546,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Poddebicki"@pol-Latn ;
-    wdata:q7200235 "PL010011" ;
+    wdata:Q7200235 "PL010011" ;
 .
 
 <urn:mdciii:1603:16:616:2:10012>
@@ -558,7 +558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Radomszczanski"@pol-Latn ;
-    wdata:q7200235 "PL010012" ;
+    wdata:Q7200235 "PL010012" ;
 .
 
 <urn:mdciii:1603:16:616:2:10013>
@@ -570,7 +570,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Rawski"@pol-Latn ;
-    wdata:q7200235 "PL010013" ;
+    wdata:Q7200235 "PL010013" ;
 .
 
 <urn:mdciii:1603:16:616:2:10014>
@@ -582,7 +582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Sieradzki"@pol-Latn ;
-    wdata:q7200235 "PL010014" ;
+    wdata:Q7200235 "PL010014" ;
 .
 
 <urn:mdciii:1603:16:616:2:10015>
@@ -594,7 +594,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Skierniewicki"@pol-Latn ;
-    wdata:q7200235 "PL010015" ;
+    wdata:Q7200235 "PL010015" ;
 .
 
 <urn:mdciii:1603:16:616:2:10016>
@@ -606,7 +606,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Tomaszowski"@pol-Latn ;
-    wdata:q7200235 "PL010016" ;
+    wdata:Q7200235 "PL010016" ;
 .
 
 <urn:mdciii:1603:16:616:2:10017>
@@ -618,7 +618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Wielunski"@pol-Latn ;
-    wdata:q7200235 "PL010017" ;
+    wdata:Q7200235 "PL010017" ;
 .
 
 <urn:mdciii:1603:16:616:2:10018>
@@ -630,7 +630,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Wieruszowski"@pol-Latn ;
-    wdata:q7200235 "PL010018" ;
+    wdata:Q7200235 "PL010018" ;
 .
 
 <urn:mdciii:1603:16:616:2:10019>
@@ -642,7 +642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Zdunskowolski"@pol-Latn ;
-    wdata:q7200235 "PL010019" ;
+    wdata:Q7200235 "PL010019" ;
 .
 
 <urn:mdciii:1603:16:616:2:10020>
@@ -654,7 +654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Zgierski"@pol-Latn ;
-    wdata:q7200235 "PL010020" ;
+    wdata:Q7200235 "PL010020" ;
 .
 
 <urn:mdciii:1603:16:616:2:10021>
@@ -666,7 +666,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Brzezinski"@pol-Latn ;
-    wdata:q7200235 "PL010021" ;
+    wdata:Q7200235 "PL010021" ;
 .
 
 <urn:mdciii:1603:16:616:2:10061>
@@ -678,7 +678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Lodz"@pol-Latn ;
-    wdata:q7200235 "PL010061" ;
+    wdata:Q7200235 "PL010061" ;
 .
 
 <urn:mdciii:1603:16:616:2:10062>
@@ -690,7 +690,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Piotrkow Trybunalski"@pol-Latn ;
-    wdata:q7200235 "PL010062" ;
+    wdata:Q7200235 "PL010062" ;
 .
 
 <urn:mdciii:1603:16:616:2:10063>
@@ -702,7 +702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:10> ;
     skos:prefLabel "Skierniewice"@pol-Latn ;
-    wdata:q7200235 "PL010063" ;
+    wdata:Q7200235 "PL010063" ;
 .
 
 <urn:mdciii:1603:16:616:2:12001>
@@ -714,7 +714,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Bochenski"@pol-Latn ;
-    wdata:q7200235 "PL012001" ;
+    wdata:Q7200235 "PL012001" ;
 .
 
 <urn:mdciii:1603:16:616:2:12002>
@@ -726,7 +726,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Brzeski"@pol-Latn ;
-    wdata:q7200235 "PL012002" ;
+    wdata:Q7200235 "PL012002" ;
 .
 
 <urn:mdciii:1603:16:616:2:12003>
@@ -738,7 +738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Chrzanowski"@pol-Latn ;
-    wdata:q7200235 "PL012003" ;
+    wdata:Q7200235 "PL012003" ;
 .
 
 <urn:mdciii:1603:16:616:2:12004>
@@ -750,7 +750,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Dabrowski"@pol-Latn ;
-    wdata:q7200235 "PL012004" ;
+    wdata:Q7200235 "PL012004" ;
 .
 
 <urn:mdciii:1603:16:616:2:12005>
@@ -762,7 +762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Gorlicki"@pol-Latn ;
-    wdata:q7200235 "PL012005" ;
+    wdata:Q7200235 "PL012005" ;
 .
 
 <urn:mdciii:1603:16:616:2:12006>
@@ -774,7 +774,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Krakowski"@pol-Latn ;
-    wdata:q7200235 "PL012006" ;
+    wdata:Q7200235 "PL012006" ;
 .
 
 <urn:mdciii:1603:16:616:2:12007>
@@ -786,7 +786,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Limanowski"@pol-Latn ;
-    wdata:q7200235 "PL012007" ;
+    wdata:Q7200235 "PL012007" ;
 .
 
 <urn:mdciii:1603:16:616:2:12008>
@@ -798,7 +798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Miechowski"@pol-Latn ;
-    wdata:q7200235 "PL012008" ;
+    wdata:Q7200235 "PL012008" ;
 .
 
 <urn:mdciii:1603:16:616:2:12009>
@@ -810,7 +810,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Myslenicki"@pol-Latn ;
-    wdata:q7200235 "PL012009" ;
+    wdata:Q7200235 "PL012009" ;
 .
 
 <urn:mdciii:1603:16:616:2:12010>
@@ -822,7 +822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Nowosadecki"@pol-Latn ;
-    wdata:q7200235 "PL012010" ;
+    wdata:Q7200235 "PL012010" ;
 .
 
 <urn:mdciii:1603:16:616:2:12011>
@@ -834,7 +834,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Nowotarski"@pol-Latn ;
-    wdata:q7200235 "PL012011" ;
+    wdata:Q7200235 "PL012011" ;
 .
 
 <urn:mdciii:1603:16:616:2:12012>
@@ -846,7 +846,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Olkuski"@pol-Latn ;
-    wdata:q7200235 "PL012012" ;
+    wdata:Q7200235 "PL012012" ;
 .
 
 <urn:mdciii:1603:16:616:2:12013>
@@ -858,7 +858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Oswiecimski"@pol-Latn ;
-    wdata:q7200235 "PL012013" ;
+    wdata:Q7200235 "PL012013" ;
 .
 
 <urn:mdciii:1603:16:616:2:12014>
@@ -870,7 +870,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Proszowicki"@pol-Latn ;
-    wdata:q7200235 "PL012014" ;
+    wdata:Q7200235 "PL012014" ;
 .
 
 <urn:mdciii:1603:16:616:2:12015>
@@ -882,7 +882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Suski"@pol-Latn ;
-    wdata:q7200235 "PL012015" ;
+    wdata:Q7200235 "PL012015" ;
 .
 
 <urn:mdciii:1603:16:616:2:12016>
@@ -894,7 +894,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Tarnowski"@pol-Latn ;
-    wdata:q7200235 "PL012016" ;
+    wdata:Q7200235 "PL012016" ;
 .
 
 <urn:mdciii:1603:16:616:2:12017>
@@ -906,7 +906,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Tatrzanski"@pol-Latn ;
-    wdata:q7200235 "PL012017" ;
+    wdata:Q7200235 "PL012017" ;
 .
 
 <urn:mdciii:1603:16:616:2:12018>
@@ -918,7 +918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Wadowicki"@pol-Latn ;
-    wdata:q7200235 "PL012018" ;
+    wdata:Q7200235 "PL012018" ;
 .
 
 <urn:mdciii:1603:16:616:2:12019>
@@ -930,7 +930,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Wielicki"@pol-Latn ;
-    wdata:q7200235 "PL012019" ;
+    wdata:Q7200235 "PL012019" ;
 .
 
 <urn:mdciii:1603:16:616:2:12061>
@@ -942,7 +942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Krakow"@pol-Latn ;
-    wdata:q7200235 "PL012061" ;
+    wdata:Q7200235 "PL012061" ;
 .
 
 <urn:mdciii:1603:16:616:2:12062>
@@ -954,7 +954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Nowy Sacz"@pol-Latn ;
-    wdata:q7200235 "PL012062" ;
+    wdata:Q7200235 "PL012062" ;
 .
 
 <urn:mdciii:1603:16:616:2:12063>
@@ -966,7 +966,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:12> ;
     skos:prefLabel "Tarnow"@pol-Latn ;
-    wdata:q7200235 "PL012063" ;
+    wdata:Q7200235 "PL012063" ;
 .
 
 <urn:mdciii:1603:16:616:2:14001>
@@ -978,7 +978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Bialobrzeski"@pol-Latn ;
-    wdata:q7200235 "PL014001" ;
+    wdata:Q7200235 "PL014001" ;
 .
 
 <urn:mdciii:1603:16:616:2:14002>
@@ -990,7 +990,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Ciechanowski"@pol-Latn ;
-    wdata:q7200235 "PL014002" ;
+    wdata:Q7200235 "PL014002" ;
 .
 
 <urn:mdciii:1603:16:616:2:14003>
@@ -1002,7 +1002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Garwolinski"@pol-Latn ;
-    wdata:q7200235 "PL014003" ;
+    wdata:Q7200235 "PL014003" ;
 .
 
 <urn:mdciii:1603:16:616:2:14004>
@@ -1014,7 +1014,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Gostyninski"@pol-Latn ;
-    wdata:q7200235 "PL014004" ;
+    wdata:Q7200235 "PL014004" ;
 .
 
 <urn:mdciii:1603:16:616:2:14005>
@@ -1026,7 +1026,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Grodziski"@pol-Latn ;
-    wdata:q7200235 "PL014005" ;
+    wdata:Q7200235 "PL014005" ;
 .
 
 <urn:mdciii:1603:16:616:2:14006>
@@ -1038,7 +1038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Grojecki"@pol-Latn ;
-    wdata:q7200235 "PL014006" ;
+    wdata:Q7200235 "PL014006" ;
 .
 
 <urn:mdciii:1603:16:616:2:14007>
@@ -1050,7 +1050,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Kozienicki"@pol-Latn ;
-    wdata:q7200235 "PL014007" ;
+    wdata:Q7200235 "PL014007" ;
 .
 
 <urn:mdciii:1603:16:616:2:14008>
@@ -1062,7 +1062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Legionowski"@pol-Latn ;
-    wdata:q7200235 "PL014008" ;
+    wdata:Q7200235 "PL014008" ;
 .
 
 <urn:mdciii:1603:16:616:2:14009>
@@ -1074,7 +1074,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Lipski"@pol-Latn ;
-    wdata:q7200235 "PL014009" ;
+    wdata:Q7200235 "PL014009" ;
 .
 
 <urn:mdciii:1603:16:616:2:14010>
@@ -1086,7 +1086,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Losicki"@pol-Latn ;
-    wdata:q7200235 "PL014010" ;
+    wdata:Q7200235 "PL014010" ;
 .
 
 <urn:mdciii:1603:16:616:2:14011>
@@ -1098,7 +1098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Makowski"@pol-Latn ;
-    wdata:q7200235 "PL014011" ;
+    wdata:Q7200235 "PL014011" ;
 .
 
 <urn:mdciii:1603:16:616:2:14012>
@@ -1110,7 +1110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Minski"@pol-Latn ;
-    wdata:q7200235 "PL014012" ;
+    wdata:Q7200235 "PL014012" ;
 .
 
 <urn:mdciii:1603:16:616:2:14013>
@@ -1122,7 +1122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Mlawski"@pol-Latn ;
-    wdata:q7200235 "PL014013" ;
+    wdata:Q7200235 "PL014013" ;
 .
 
 <urn:mdciii:1603:16:616:2:14014>
@@ -1134,7 +1134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Nowodworski"@pol-Latn ;
-    wdata:q7200235 "PL014014" ;
+    wdata:Q7200235 "PL014014" ;
 .
 
 <urn:mdciii:1603:16:616:2:14015>
@@ -1146,7 +1146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Ostrolecki"@pol-Latn ;
-    wdata:q7200235 "PL014015" ;
+    wdata:Q7200235 "PL014015" ;
 .
 
 <urn:mdciii:1603:16:616:2:14016>
@@ -1158,7 +1158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Ostrowski"@pol-Latn ;
-    wdata:q7200235 "PL014016" ;
+    wdata:Q7200235 "PL014016" ;
 .
 
 <urn:mdciii:1603:16:616:2:14017>
@@ -1170,7 +1170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Otwocki"@pol-Latn ;
-    wdata:q7200235 "PL014017" ;
+    wdata:Q7200235 "PL014017" ;
 .
 
 <urn:mdciii:1603:16:616:2:14018>
@@ -1182,7 +1182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Piaseczynski"@pol-Latn ;
-    wdata:q7200235 "PL014018" ;
+    wdata:Q7200235 "PL014018" ;
 .
 
 <urn:mdciii:1603:16:616:2:14019>
@@ -1194,7 +1194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Plocki"@pol-Latn ;
-    wdata:q7200235 "PL014019" ;
+    wdata:Q7200235 "PL014019" ;
 .
 
 <urn:mdciii:1603:16:616:2:14020>
@@ -1206,7 +1206,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Plonski"@pol-Latn ;
-    wdata:q7200235 "PL014020" ;
+    wdata:Q7200235 "PL014020" ;
 .
 
 <urn:mdciii:1603:16:616:2:14021>
@@ -1218,7 +1218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Pruszkowski"@pol-Latn ;
-    wdata:q7200235 "PL014021" ;
+    wdata:Q7200235 "PL014021" ;
 .
 
 <urn:mdciii:1603:16:616:2:14022>
@@ -1230,7 +1230,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Przasnyski"@pol-Latn ;
-    wdata:q7200235 "PL014022" ;
+    wdata:Q7200235 "PL014022" ;
 .
 
 <urn:mdciii:1603:16:616:2:14023>
@@ -1242,7 +1242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Przysuski"@pol-Latn ;
-    wdata:q7200235 "PL014023" ;
+    wdata:Q7200235 "PL014023" ;
 .
 
 <urn:mdciii:1603:16:616:2:14024>
@@ -1254,7 +1254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Pultuski"@pol-Latn ;
-    wdata:q7200235 "PL014024" ;
+    wdata:Q7200235 "PL014024" ;
 .
 
 <urn:mdciii:1603:16:616:2:14025>
@@ -1266,7 +1266,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Radomski"@pol-Latn ;
-    wdata:q7200235 "PL014025" ;
+    wdata:Q7200235 "PL014025" ;
 .
 
 <urn:mdciii:1603:16:616:2:14026>
@@ -1278,7 +1278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Siedlecki"@pol-Latn ;
-    wdata:q7200235 "PL014026" ;
+    wdata:Q7200235 "PL014026" ;
 .
 
 <urn:mdciii:1603:16:616:2:14027>
@@ -1290,7 +1290,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Sierpecki"@pol-Latn ;
-    wdata:q7200235 "PL014027" ;
+    wdata:Q7200235 "PL014027" ;
 .
 
 <urn:mdciii:1603:16:616:2:14028>
@@ -1302,7 +1302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Sochaczewski"@pol-Latn ;
-    wdata:q7200235 "PL014028" ;
+    wdata:Q7200235 "PL014028" ;
 .
 
 <urn:mdciii:1603:16:616:2:14029>
@@ -1314,7 +1314,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Sokolowski"@pol-Latn ;
-    wdata:q7200235 "PL014029" ;
+    wdata:Q7200235 "PL014029" ;
 .
 
 <urn:mdciii:1603:16:616:2:14030>
@@ -1326,7 +1326,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Szydlowiecki"@pol-Latn ;
-    wdata:q7200235 "PL014030" ;
+    wdata:Q7200235 "PL014030" ;
 .
 
 <urn:mdciii:1603:16:616:2:14032>
@@ -1338,7 +1338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Warszawski Zachodni"@pol-Latn ;
-    wdata:q7200235 "PL014032" ;
+    wdata:Q7200235 "PL014032" ;
 .
 
 <urn:mdciii:1603:16:616:2:14033>
@@ -1350,7 +1350,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Wegrowski"@pol-Latn ;
-    wdata:q7200235 "PL014033" ;
+    wdata:Q7200235 "PL014033" ;
 .
 
 <urn:mdciii:1603:16:616:2:14034>
@@ -1362,7 +1362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Wolominski"@pol-Latn ;
-    wdata:q7200235 "PL014034" ;
+    wdata:Q7200235 "PL014034" ;
 .
 
 <urn:mdciii:1603:16:616:2:14035>
@@ -1374,7 +1374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Wyszkowski"@pol-Latn ;
-    wdata:q7200235 "PL014035" ;
+    wdata:Q7200235 "PL014035" ;
 .
 
 <urn:mdciii:1603:16:616:2:14036>
@@ -1386,7 +1386,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Zwolenski"@pol-Latn ;
-    wdata:q7200235 "PL014036" ;
+    wdata:Q7200235 "PL014036" ;
 .
 
 <urn:mdciii:1603:16:616:2:14037>
@@ -1398,7 +1398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Zurominski"@pol-Latn ;
-    wdata:q7200235 "PL014037" ;
+    wdata:Q7200235 "PL014037" ;
 .
 
 <urn:mdciii:1603:16:616:2:14038>
@@ -1410,7 +1410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Zyrardowski"@pol-Latn ;
-    wdata:q7200235 "PL014038" ;
+    wdata:Q7200235 "PL014038" ;
 .
 
 <urn:mdciii:1603:16:616:2:14061>
@@ -1422,7 +1422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Ostroleka"@pol-Latn ;
-    wdata:q7200235 "PL014061" ;
+    wdata:Q7200235 "PL014061" ;
 .
 
 <urn:mdciii:1603:16:616:2:14062>
@@ -1434,7 +1434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Plock"@pol-Latn ;
-    wdata:q7200235 "PL014062" ;
+    wdata:Q7200235 "PL014062" ;
 .
 
 <urn:mdciii:1603:16:616:2:14063>
@@ -1446,7 +1446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Radom"@pol-Latn ;
-    wdata:q7200235 "PL014063" ;
+    wdata:Q7200235 "PL014063" ;
 .
 
 <urn:mdciii:1603:16:616:2:14064>
@@ -1458,7 +1458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Siedlce"@pol-Latn ;
-    wdata:q7200235 "PL014064" ;
+    wdata:Q7200235 "PL014064" ;
 .
 
 <urn:mdciii:1603:16:616:2:14065>
@@ -1470,7 +1470,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:14> ;
     skos:prefLabel "Warszawa"@pol-Latn ;
-    wdata:q7200235 "PL014065" ;
+    wdata:Q7200235 "PL014065" ;
 .
 
 <urn:mdciii:1603:16:616:2:16001>
@@ -1482,7 +1482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Brzeski"@pol-Latn ;
-    wdata:q7200235 "PL016001" ;
+    wdata:Q7200235 "PL016001" ;
 .
 
 <urn:mdciii:1603:16:616:2:16002>
@@ -1494,7 +1494,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Glubczycki"@pol-Latn ;
-    wdata:q7200235 "PL016002" ;
+    wdata:Q7200235 "PL016002" ;
 .
 
 <urn:mdciii:1603:16:616:2:16003>
@@ -1506,7 +1506,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Kedzierzynsko-Kozielski"@pol-Latn ;
-    wdata:q7200235 "PL016003" ;
+    wdata:Q7200235 "PL016003" ;
 .
 
 <urn:mdciii:1603:16:616:2:16004>
@@ -1518,7 +1518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Kluczborski"@pol-Latn ;
-    wdata:q7200235 "PL016004" ;
+    wdata:Q7200235 "PL016004" ;
 .
 
 <urn:mdciii:1603:16:616:2:16005>
@@ -1530,7 +1530,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Krapkowicki"@pol-Latn ;
-    wdata:q7200235 "PL016005" ;
+    wdata:Q7200235 "PL016005" ;
 .
 
 <urn:mdciii:1603:16:616:2:16006>
@@ -1542,7 +1542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Namyslowski"@pol-Latn ;
-    wdata:q7200235 "PL016006" ;
+    wdata:Q7200235 "PL016006" ;
 .
 
 <urn:mdciii:1603:16:616:2:16007>
@@ -1554,7 +1554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Nyski"@pol-Latn ;
-    wdata:q7200235 "PL016007" ;
+    wdata:Q7200235 "PL016007" ;
 .
 
 <urn:mdciii:1603:16:616:2:16008>
@@ -1566,7 +1566,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Oleski"@pol-Latn ;
-    wdata:q7200235 "PL016008" ;
+    wdata:Q7200235 "PL016008" ;
 .
 
 <urn:mdciii:1603:16:616:2:16009>
@@ -1578,7 +1578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Opolski"@pol-Latn ;
-    wdata:q7200235 "PL016009" ;
+    wdata:Q7200235 "PL016009" ;
 .
 
 <urn:mdciii:1603:16:616:2:16010>
@@ -1590,7 +1590,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Prudnicki"@pol-Latn ;
-    wdata:q7200235 "PL016010" ;
+    wdata:Q7200235 "PL016010" ;
 .
 
 <urn:mdciii:1603:16:616:2:16011>
@@ -1602,7 +1602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Strzelecki"@pol-Latn ;
-    wdata:q7200235 "PL016011" ;
+    wdata:Q7200235 "PL016011" ;
 .
 
 <urn:mdciii:1603:16:616:2:16061>
@@ -1614,7 +1614,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:16> ;
     skos:prefLabel "Opole"@pol-Latn ;
-    wdata:q7200235 "PL016061" ;
+    wdata:Q7200235 "PL016061" ;
 .
 
 <urn:mdciii:1603:16:616:2:18001>
@@ -1626,7 +1626,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Bieszczadzki"@pol-Latn ;
-    wdata:q7200235 "PL018001" ;
+    wdata:Q7200235 "PL018001" ;
 .
 
 <urn:mdciii:1603:16:616:2:18002>
@@ -1638,7 +1638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Brzozowski"@pol-Latn ;
-    wdata:q7200235 "PL018002" ;
+    wdata:Q7200235 "PL018002" ;
 .
 
 <urn:mdciii:1603:16:616:2:18003>
@@ -1650,7 +1650,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Debicki"@pol-Latn ;
-    wdata:q7200235 "PL018003" ;
+    wdata:Q7200235 "PL018003" ;
 .
 
 <urn:mdciii:1603:16:616:2:18004>
@@ -1662,7 +1662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Jaroslawski"@pol-Latn ;
-    wdata:q7200235 "PL018004" ;
+    wdata:Q7200235 "PL018004" ;
 .
 
 <urn:mdciii:1603:16:616:2:18005>
@@ -1674,7 +1674,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Jasielski"@pol-Latn ;
-    wdata:q7200235 "PL018005" ;
+    wdata:Q7200235 "PL018005" ;
 .
 
 <urn:mdciii:1603:16:616:2:18006>
@@ -1686,7 +1686,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Kolbuszowski"@pol-Latn ;
-    wdata:q7200235 "PL018006" ;
+    wdata:Q7200235 "PL018006" ;
 .
 
 <urn:mdciii:1603:16:616:2:18007>
@@ -1698,7 +1698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Krosnienski"@pol-Latn ;
-    wdata:q7200235 "PL018007" ;
+    wdata:Q7200235 "PL018007" ;
 .
 
 <urn:mdciii:1603:16:616:2:18008>
@@ -1710,7 +1710,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Lezajski"@pol-Latn ;
-    wdata:q7200235 "PL018008" ;
+    wdata:Q7200235 "PL018008" ;
 .
 
 <urn:mdciii:1603:16:616:2:18009>
@@ -1722,7 +1722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Lubaczowski"@pol-Latn ;
-    wdata:q7200235 "PL018009" ;
+    wdata:Q7200235 "PL018009" ;
 .
 
 <urn:mdciii:1603:16:616:2:18010>
@@ -1734,7 +1734,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Lancucki"@pol-Latn ;
-    wdata:q7200235 "PL018010" ;
+    wdata:Q7200235 "PL018010" ;
 .
 
 <urn:mdciii:1603:16:616:2:18011>
@@ -1746,7 +1746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Mielecki"@pol-Latn ;
-    wdata:q7200235 "PL018011" ;
+    wdata:Q7200235 "PL018011" ;
 .
 
 <urn:mdciii:1603:16:616:2:18012>
@@ -1758,7 +1758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Nizanski"@pol-Latn ;
-    wdata:q7200235 "PL018012" ;
+    wdata:Q7200235 "PL018012" ;
 .
 
 <urn:mdciii:1603:16:616:2:18013>
@@ -1770,7 +1770,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Przemyski"@pol-Latn ;
-    wdata:q7200235 "PL018013" ;
+    wdata:Q7200235 "PL018013" ;
 .
 
 <urn:mdciii:1603:16:616:2:18014>
@@ -1782,7 +1782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Przeworski"@pol-Latn ;
-    wdata:q7200235 "PL018014" ;
+    wdata:Q7200235 "PL018014" ;
 .
 
 <urn:mdciii:1603:16:616:2:18015>
@@ -1794,7 +1794,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Ropczycko-Sedziszowski"@pol-Latn ;
-    wdata:q7200235 "PL018015" ;
+    wdata:Q7200235 "PL018015" ;
 .
 
 <urn:mdciii:1603:16:616:2:18016>
@@ -1806,7 +1806,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Rzeszowski"@pol-Latn ;
-    wdata:q7200235 "PL018016" ;
+    wdata:Q7200235 "PL018016" ;
 .
 
 <urn:mdciii:1603:16:616:2:18017>
@@ -1818,7 +1818,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Sanocki"@pol-Latn ;
-    wdata:q7200235 "PL018017" ;
+    wdata:Q7200235 "PL018017" ;
 .
 
 <urn:mdciii:1603:16:616:2:18018>
@@ -1830,7 +1830,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Stalowowolski"@pol-Latn ;
-    wdata:q7200235 "PL018018" ;
+    wdata:Q7200235 "PL018018" ;
 .
 
 <urn:mdciii:1603:16:616:2:18019>
@@ -1842,7 +1842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Strzyzowski"@pol-Latn ;
-    wdata:q7200235 "PL018019" ;
+    wdata:Q7200235 "PL018019" ;
 .
 
 <urn:mdciii:1603:16:616:2:18020>
@@ -1854,7 +1854,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Tarnobrzeski"@pol-Latn ;
-    wdata:q7200235 "PL018020" ;
+    wdata:Q7200235 "PL018020" ;
 .
 
 <urn:mdciii:1603:16:616:2:18021>
@@ -1866,7 +1866,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Leski"@pol-Latn ;
-    wdata:q7200235 "PL018021" ;
+    wdata:Q7200235 "PL018021" ;
 .
 
 <urn:mdciii:1603:16:616:2:18061>
@@ -1878,7 +1878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Krosno"@pol-Latn ;
-    wdata:q7200235 "PL018061" ;
+    wdata:Q7200235 "PL018061" ;
 .
 
 <urn:mdciii:1603:16:616:2:18062>
@@ -1890,7 +1890,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Przemysl"@pol-Latn ;
-    wdata:q7200235 "PL018062" ;
+    wdata:Q7200235 "PL018062" ;
 .
 
 <urn:mdciii:1603:16:616:2:18063>
@@ -1902,7 +1902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Rzeszow"@pol-Latn ;
-    wdata:q7200235 "PL018063" ;
+    wdata:Q7200235 "PL018063" ;
 .
 
 <urn:mdciii:1603:16:616:2:18064>
@@ -1914,7 +1914,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:18> ;
     skos:prefLabel "Tarnobrzeg"@pol-Latn ;
-    wdata:q7200235 "PL018064" ;
+    wdata:Q7200235 "PL018064" ;
 .
 
 <urn:mdciii:1603:16:616:2:20001>
@@ -1926,7 +1926,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Augustowski"@pol-Latn ;
-    wdata:q7200235 "PL020001" ;
+    wdata:Q7200235 "PL020001" ;
 .
 
 <urn:mdciii:1603:16:616:2:20002>
@@ -1938,7 +1938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Bialostocki"@pol-Latn ;
-    wdata:q7200235 "PL020002" ;
+    wdata:Q7200235 "PL020002" ;
 .
 
 <urn:mdciii:1603:16:616:2:20003>
@@ -1950,7 +1950,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Bielski"@pol-Latn ;
-    wdata:q7200235 "PL020003" ;
+    wdata:Q7200235 "PL020003" ;
 .
 
 <urn:mdciii:1603:16:616:2:20004>
@@ -1962,7 +1962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Grajewski"@pol-Latn ;
-    wdata:q7200235 "PL020004" ;
+    wdata:Q7200235 "PL020004" ;
 .
 
 <urn:mdciii:1603:16:616:2:20005>
@@ -1974,7 +1974,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Hajnowski"@pol-Latn ;
-    wdata:q7200235 "PL020005" ;
+    wdata:Q7200235 "PL020005" ;
 .
 
 <urn:mdciii:1603:16:616:2:20006>
@@ -1986,7 +1986,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Kolnenski"@pol-Latn ;
-    wdata:q7200235 "PL020006" ;
+    wdata:Q7200235 "PL020006" ;
 .
 
 <urn:mdciii:1603:16:616:2:20007>
@@ -1998,7 +1998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Lomzynski"@pol-Latn ;
-    wdata:q7200235 "PL020007" ;
+    wdata:Q7200235 "PL020007" ;
 .
 
 <urn:mdciii:1603:16:616:2:20008>
@@ -2010,7 +2010,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Moniecki"@pol-Latn ;
-    wdata:q7200235 "PL020008" ;
+    wdata:Q7200235 "PL020008" ;
 .
 
 <urn:mdciii:1603:16:616:2:20009>
@@ -2022,7 +2022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Sejnenski"@pol-Latn ;
-    wdata:q7200235 "PL020009" ;
+    wdata:Q7200235 "PL020009" ;
 .
 
 <urn:mdciii:1603:16:616:2:20010>
@@ -2034,7 +2034,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Siemiatycki"@pol-Latn ;
-    wdata:q7200235 "PL020010" ;
+    wdata:Q7200235 "PL020010" ;
 .
 
 <urn:mdciii:1603:16:616:2:20011>
@@ -2046,7 +2046,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Sokolski"@pol-Latn ;
-    wdata:q7200235 "PL020011" ;
+    wdata:Q7200235 "PL020011" ;
 .
 
 <urn:mdciii:1603:16:616:2:20012>
@@ -2058,7 +2058,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Suwalski"@pol-Latn ;
-    wdata:q7200235 "PL020012" ;
+    wdata:Q7200235 "PL020012" ;
 .
 
 <urn:mdciii:1603:16:616:2:20013>
@@ -2070,7 +2070,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Wysokomazowiecki"@pol-Latn ;
-    wdata:q7200235 "PL020013" ;
+    wdata:Q7200235 "PL020013" ;
 .
 
 <urn:mdciii:1603:16:616:2:20014>
@@ -2082,7 +2082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Zambrowski"@pol-Latn ;
-    wdata:q7200235 "PL020014" ;
+    wdata:Q7200235 "PL020014" ;
 .
 
 <urn:mdciii:1603:16:616:2:2002>
@@ -2094,7 +2094,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Dzierzoniowski"@pol-Latn ;
-    wdata:q7200235 "PL002002" ;
+    wdata:Q7200235 "PL002002" ;
 .
 
 <urn:mdciii:1603:16:616:2:2003>
@@ -2106,7 +2106,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Glogowski"@pol-Latn ;
-    wdata:q7200235 "PL002003" ;
+    wdata:Q7200235 "PL002003" ;
 .
 
 <urn:mdciii:1603:16:616:2:2004>
@@ -2118,7 +2118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Gorowski"@pol-Latn ;
-    wdata:q7200235 "PL002004" ;
+    wdata:Q7200235 "PL002004" ;
 .
 
 <urn:mdciii:1603:16:616:2:2005>
@@ -2130,7 +2130,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Jaworski"@pol-Latn ;
-    wdata:q7200235 "PL002005" ;
+    wdata:Q7200235 "PL002005" ;
 .
 
 <urn:mdciii:1603:16:616:2:2006>
@@ -2142,7 +2142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Jeleniogorski"@pol-Latn ;
-    wdata:q7200235 "PL002006" ;
+    wdata:Q7200235 "PL002006" ;
 .
 
 <urn:mdciii:1603:16:616:2:20061>
@@ -2154,7 +2154,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Bialystok"@pol-Latn ;
-    wdata:q7200235 "PL020061" ;
+    wdata:Q7200235 "PL020061" ;
 .
 
 <urn:mdciii:1603:16:616:2:20062>
@@ -2166,7 +2166,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Lomza"@pol-Latn ;
-    wdata:q7200235 "PL020062" ;
+    wdata:Q7200235 "PL020062" ;
 .
 
 <urn:mdciii:1603:16:616:2:20063>
@@ -2178,7 +2178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:20> ;
     skos:prefLabel "Suwalki"@pol-Latn ;
-    wdata:q7200235 "PL020063" ;
+    wdata:Q7200235 "PL020063" ;
 .
 
 <urn:mdciii:1603:16:616:2:2007>
@@ -2190,7 +2190,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Kamiennogorski"@pol-Latn ;
-    wdata:q7200235 "PL002007" ;
+    wdata:Q7200235 "PL002007" ;
 .
 
 <urn:mdciii:1603:16:616:2:2008>
@@ -2202,7 +2202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Klodzki"@pol-Latn ;
-    wdata:q7200235 "PL002008" ;
+    wdata:Q7200235 "PL002008" ;
 .
 
 <urn:mdciii:1603:16:616:2:2009>
@@ -2214,7 +2214,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Legnicki"@pol-Latn ;
-    wdata:q7200235 "PL002009" ;
+    wdata:Q7200235 "PL002009" ;
 .
 
 <urn:mdciii:1603:16:616:2:2010>
@@ -2226,7 +2226,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Lubanski"@pol-Latn ;
-    wdata:q7200235 "PL002010" ;
+    wdata:Q7200235 "PL002010" ;
 .
 
 <urn:mdciii:1603:16:616:2:2011>
@@ -2238,7 +2238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Lubinski"@pol-Latn ;
-    wdata:q7200235 "PL002011" ;
+    wdata:Q7200235 "PL002011" ;
 .
 
 <urn:mdciii:1603:16:616:2:2012>
@@ -2250,7 +2250,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Lwowecki"@pol-Latn ;
-    wdata:q7200235 "PL002012" ;
+    wdata:Q7200235 "PL002012" ;
 .
 
 <urn:mdciii:1603:16:616:2:2013>
@@ -2262,7 +2262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Milicki"@pol-Latn ;
-    wdata:q7200235 "PL002013" ;
+    wdata:Q7200235 "PL002013" ;
 .
 
 <urn:mdciii:1603:16:616:2:2014>
@@ -2274,7 +2274,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Olesnicki"@pol-Latn ;
-    wdata:q7200235 "PL002014" ;
+    wdata:Q7200235 "PL002014" ;
 .
 
 <urn:mdciii:1603:16:616:2:2015>
@@ -2286,7 +2286,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Olawski"@pol-Latn ;
-    wdata:q7200235 "PL002015" ;
+    wdata:Q7200235 "PL002015" ;
 .
 
 <urn:mdciii:1603:16:616:2:2016>
@@ -2298,7 +2298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Polkowicki"@pol-Latn ;
-    wdata:q7200235 "PL002016" ;
+    wdata:Q7200235 "PL002016" ;
 .
 
 <urn:mdciii:1603:16:616:2:2017>
@@ -2310,7 +2310,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Strzelinski"@pol-Latn ;
-    wdata:q7200235 "PL002017" ;
+    wdata:Q7200235 "PL002017" ;
 .
 
 <urn:mdciii:1603:16:616:2:2018>
@@ -2322,7 +2322,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Sredzki"@pol-Latn ;
-    wdata:q7200235 "PL002018" ;
+    wdata:Q7200235 "PL002018" ;
 .
 
 <urn:mdciii:1603:16:616:2:2019>
@@ -2334,7 +2334,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Swidnicki"@pol-Latn ;
-    wdata:q7200235 "PL002019" ;
+    wdata:Q7200235 "PL002019" ;
 .
 
 <urn:mdciii:1603:16:616:2:2020>
@@ -2346,7 +2346,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Trzebnicki"@pol-Latn ;
-    wdata:q7200235 "PL002020" ;
+    wdata:Q7200235 "PL002020" ;
 .
 
 <urn:mdciii:1603:16:616:2:2021>
@@ -2358,7 +2358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Walbrzyski"@pol-Latn ;
-    wdata:q7200235 "PL002021" ;
+    wdata:Q7200235 "PL002021" ;
 .
 
 <urn:mdciii:1603:16:616:2:2022>
@@ -2370,7 +2370,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Wolowski"@pol-Latn ;
-    wdata:q7200235 "PL002022" ;
+    wdata:Q7200235 "PL002022" ;
 .
 
 <urn:mdciii:1603:16:616:2:2023>
@@ -2382,7 +2382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Wroclawski"@pol-Latn ;
-    wdata:q7200235 "PL002023" ;
+    wdata:Q7200235 "PL002023" ;
 .
 
 <urn:mdciii:1603:16:616:2:2024>
@@ -2394,7 +2394,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Zabkowicki"@pol-Latn ;
-    wdata:q7200235 "PL002024" ;
+    wdata:Q7200235 "PL002024" ;
 .
 
 <urn:mdciii:1603:16:616:2:2025>
@@ -2406,7 +2406,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Zgorzelecki"@pol-Latn ;
-    wdata:q7200235 "PL002025" ;
+    wdata:Q7200235 "PL002025" ;
 .
 
 <urn:mdciii:1603:16:616:2:2026>
@@ -2418,7 +2418,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Zlotoryjski"@pol-Latn ;
-    wdata:q7200235 "PL002026" ;
+    wdata:Q7200235 "PL002026" ;
 .
 
 <urn:mdciii:1603:16:616:2:2061>
@@ -2430,7 +2430,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Jelenia Gora"@pol-Latn ;
-    wdata:q7200235 "PL002061" ;
+    wdata:Q7200235 "PL002061" ;
 .
 
 <urn:mdciii:1603:16:616:2:2062>
@@ -2442,7 +2442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Legnica"@pol-Latn ;
-    wdata:q7200235 "PL002062" ;
+    wdata:Q7200235 "PL002062" ;
 .
 
 <urn:mdciii:1603:16:616:2:2064>
@@ -2454,7 +2454,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Wroclaw"@pol-Latn ;
-    wdata:q7200235 "PL002064" ;
+    wdata:Q7200235 "PL002064" ;
 .
 
 <urn:mdciii:1603:16:616:2:2065>
@@ -2466,7 +2466,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:2> ;
     skos:prefLabel "Walbrzych"@pol-Latn ;
-    wdata:q7200235 "PL002065" ;
+    wdata:Q7200235 "PL002065" ;
 .
 
 <urn:mdciii:1603:16:616:2:22001>
@@ -2478,7 +2478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Bytowski"@pol-Latn ;
-    wdata:q7200235 "PL022001" ;
+    wdata:Q7200235 "PL022001" ;
 .
 
 <urn:mdciii:1603:16:616:2:22002>
@@ -2490,7 +2490,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Chojnicki"@pol-Latn ;
-    wdata:q7200235 "PL022002" ;
+    wdata:Q7200235 "PL022002" ;
 .
 
 <urn:mdciii:1603:16:616:2:22003>
@@ -2502,7 +2502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Czluchowski"@pol-Latn ;
-    wdata:q7200235 "PL022003" ;
+    wdata:Q7200235 "PL022003" ;
 .
 
 <urn:mdciii:1603:16:616:2:22004>
@@ -2514,7 +2514,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Gdanski"@pol-Latn ;
-    wdata:q7200235 "PL022004" ;
+    wdata:Q7200235 "PL022004" ;
 .
 
 <urn:mdciii:1603:16:616:2:22005>
@@ -2526,7 +2526,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Kartuski"@pol-Latn ;
-    wdata:q7200235 "PL022005" ;
+    wdata:Q7200235 "PL022005" ;
 .
 
 <urn:mdciii:1603:16:616:2:22006>
@@ -2538,7 +2538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Koscierski"@pol-Latn ;
-    wdata:q7200235 "PL022006" ;
+    wdata:Q7200235 "PL022006" ;
 .
 
 <urn:mdciii:1603:16:616:2:22007>
@@ -2550,7 +2550,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Kwidzynski"@pol-Latn ;
-    wdata:q7200235 "PL022007" ;
+    wdata:Q7200235 "PL022007" ;
 .
 
 <urn:mdciii:1603:16:616:2:22008>
@@ -2562,7 +2562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Leborski"@pol-Latn ;
-    wdata:q7200235 "PL022008" ;
+    wdata:Q7200235 "PL022008" ;
 .
 
 <urn:mdciii:1603:16:616:2:22009>
@@ -2574,7 +2574,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Malborski"@pol-Latn ;
-    wdata:q7200235 "PL022009" ;
+    wdata:Q7200235 "PL022009" ;
 .
 
 <urn:mdciii:1603:16:616:2:22010>
@@ -2586,7 +2586,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Nowodworski"@pol-Latn ;
-    wdata:q7200235 "PL022010" ;
+    wdata:Q7200235 "PL022010" ;
 .
 
 <urn:mdciii:1603:16:616:2:22011>
@@ -2598,7 +2598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Pucki"@pol-Latn ;
-    wdata:q7200235 "PL022011" ;
+    wdata:Q7200235 "PL022011" ;
 .
 
 <urn:mdciii:1603:16:616:2:22012>
@@ -2610,7 +2610,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Slupski"@pol-Latn ;
-    wdata:q7200235 "PL022012" ;
+    wdata:Q7200235 "PL022012" ;
 .
 
 <urn:mdciii:1603:16:616:2:22013>
@@ -2622,7 +2622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Starogardzki"@pol-Latn ;
-    wdata:q7200235 "PL022013" ;
+    wdata:Q7200235 "PL022013" ;
 .
 
 <urn:mdciii:1603:16:616:2:22014>
@@ -2634,7 +2634,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Tczewski"@pol-Latn ;
-    wdata:q7200235 "PL022014" ;
+    wdata:Q7200235 "PL022014" ;
 .
 
 <urn:mdciii:1603:16:616:2:22015>
@@ -2646,7 +2646,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Wejherowski"@pol-Latn ;
-    wdata:q7200235 "PL022015" ;
+    wdata:Q7200235 "PL022015" ;
 .
 
 <urn:mdciii:1603:16:616:2:22016>
@@ -2658,7 +2658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Sztumski"@pol-Latn ;
-    wdata:q7200235 "PL022016" ;
+    wdata:Q7200235 "PL022016" ;
 .
 
 <urn:mdciii:1603:16:616:2:22061>
@@ -2670,7 +2670,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Gdansk"@pol-Latn ;
-    wdata:q7200235 "PL022061" ;
+    wdata:Q7200235 "PL022061" ;
 .
 
 <urn:mdciii:1603:16:616:2:22062>
@@ -2682,7 +2682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Gdynia"@pol-Latn ;
-    wdata:q7200235 "PL022062" ;
+    wdata:Q7200235 "PL022062" ;
 .
 
 <urn:mdciii:1603:16:616:2:22063>
@@ -2694,7 +2694,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Slupsk"@pol-Latn ;
-    wdata:q7200235 "PL022063" ;
+    wdata:Q7200235 "PL022063" ;
 .
 
 <urn:mdciii:1603:16:616:2:22064>
@@ -2706,7 +2706,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:22> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:22> ;
     skos:prefLabel "Sopot"@pol-Latn ;
-    wdata:q7200235 "PL022064" ;
+    wdata:Q7200235 "PL022064" ;
 .
 
 <urn:mdciii:1603:16:616:2:24001>
@@ -2718,7 +2718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Bedzinski"@pol-Latn ;
-    wdata:q7200235 "PL024001" ;
+    wdata:Q7200235 "PL024001" ;
 .
 
 <urn:mdciii:1603:16:616:2:24002>
@@ -2730,7 +2730,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Bielski"@pol-Latn ;
-    wdata:q7200235 "PL024002" ;
+    wdata:Q7200235 "PL024002" ;
 .
 
 <urn:mdciii:1603:16:616:2:24003>
@@ -2742,7 +2742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Cieszynski"@pol-Latn ;
-    wdata:q7200235 "PL024003" ;
+    wdata:Q7200235 "PL024003" ;
 .
 
 <urn:mdciii:1603:16:616:2:24004>
@@ -2754,7 +2754,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Czestochowski"@pol-Latn ;
-    wdata:q7200235 "PL024004" ;
+    wdata:Q7200235 "PL024004" ;
 .
 
 <urn:mdciii:1603:16:616:2:24005>
@@ -2766,7 +2766,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Gliwicki"@pol-Latn ;
-    wdata:q7200235 "PL024005" ;
+    wdata:Q7200235 "PL024005" ;
 .
 
 <urn:mdciii:1603:16:616:2:24006>
@@ -2778,7 +2778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Klobucki"@pol-Latn ;
-    wdata:q7200235 "PL024006" ;
+    wdata:Q7200235 "PL024006" ;
 .
 
 <urn:mdciii:1603:16:616:2:24007>
@@ -2790,7 +2790,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Lubliniecki"@pol-Latn ;
-    wdata:q7200235 "PL024007" ;
+    wdata:Q7200235 "PL024007" ;
 .
 
 <urn:mdciii:1603:16:616:2:24008>
@@ -2802,7 +2802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Mikolowski"@pol-Latn ;
-    wdata:q7200235 "PL024008" ;
+    wdata:Q7200235 "PL024008" ;
 .
 
 <urn:mdciii:1603:16:616:2:24009>
@@ -2814,7 +2814,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Myszkowski"@pol-Latn ;
-    wdata:q7200235 "PL024009" ;
+    wdata:Q7200235 "PL024009" ;
 .
 
 <urn:mdciii:1603:16:616:2:24010>
@@ -2826,7 +2826,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Pszczynski"@pol-Latn ;
-    wdata:q7200235 "PL024010" ;
+    wdata:Q7200235 "PL024010" ;
 .
 
 <urn:mdciii:1603:16:616:2:24011>
@@ -2838,7 +2838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Raciborski"@pol-Latn ;
-    wdata:q7200235 "PL024011" ;
+    wdata:Q7200235 "PL024011" ;
 .
 
 <urn:mdciii:1603:16:616:2:24012>
@@ -2850,7 +2850,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Rybnicki"@pol-Latn ;
-    wdata:q7200235 "PL024012" ;
+    wdata:Q7200235 "PL024012" ;
 .
 
 <urn:mdciii:1603:16:616:2:24013>
@@ -2862,7 +2862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Tarnogorski"@pol-Latn ;
-    wdata:q7200235 "PL024013" ;
+    wdata:Q7200235 "PL024013" ;
 .
 
 <urn:mdciii:1603:16:616:2:24014>
@@ -2874,7 +2874,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Bierunsko-Ledzinski"@pol-Latn ;
-    wdata:q7200235 "PL024014" ;
+    wdata:Q7200235 "PL024014" ;
 .
 
 <urn:mdciii:1603:16:616:2:24015>
@@ -2886,7 +2886,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Wodzislawski"@pol-Latn ;
-    wdata:q7200235 "PL024015" ;
+    wdata:Q7200235 "PL024015" ;
 .
 
 <urn:mdciii:1603:16:616:2:24016>
@@ -2898,7 +2898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Zawiercianski"@pol-Latn ;
-    wdata:q7200235 "PL024016" ;
+    wdata:Q7200235 "PL024016" ;
 .
 
 <urn:mdciii:1603:16:616:2:24017>
@@ -2910,7 +2910,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Zywiecki"@pol-Latn ;
-    wdata:q7200235 "PL024017" ;
+    wdata:Q7200235 "PL024017" ;
 .
 
 <urn:mdciii:1603:16:616:2:24061>
@@ -2922,7 +2922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Bielsko-Biala"@pol-Latn ;
-    wdata:q7200235 "PL024061" ;
+    wdata:Q7200235 "PL024061" ;
 .
 
 <urn:mdciii:1603:16:616:2:24062>
@@ -2934,7 +2934,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Bytom"@pol-Latn ;
-    wdata:q7200235 "PL024062" ;
+    wdata:Q7200235 "PL024062" ;
 .
 
 <urn:mdciii:1603:16:616:2:24063>
@@ -2946,7 +2946,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Chorzow"@pol-Latn ;
-    wdata:q7200235 "PL024063" ;
+    wdata:Q7200235 "PL024063" ;
 .
 
 <urn:mdciii:1603:16:616:2:24064>
@@ -2958,7 +2958,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Czestochowa"@pol-Latn ;
-    wdata:q7200235 "PL024064" ;
+    wdata:Q7200235 "PL024064" ;
 .
 
 <urn:mdciii:1603:16:616:2:24065>
@@ -2970,7 +2970,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Dabrowa Gornicza"@pol-Latn ;
-    wdata:q7200235 "PL024065" ;
+    wdata:Q7200235 "PL024065" ;
 .
 
 <urn:mdciii:1603:16:616:2:24066>
@@ -2982,7 +2982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Gliwice"@pol-Latn ;
-    wdata:q7200235 "PL024066" ;
+    wdata:Q7200235 "PL024066" ;
 .
 
 <urn:mdciii:1603:16:616:2:24067>
@@ -2994,7 +2994,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Jastrzebie-Zdroj"@pol-Latn ;
-    wdata:q7200235 "PL024067" ;
+    wdata:Q7200235 "PL024067" ;
 .
 
 <urn:mdciii:1603:16:616:2:24068>
@@ -3006,7 +3006,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Jaworzno"@pol-Latn ;
-    wdata:q7200235 "PL024068" ;
+    wdata:Q7200235 "PL024068" ;
 .
 
 <urn:mdciii:1603:16:616:2:24069>
@@ -3018,7 +3018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Katowice"@pol-Latn ;
-    wdata:q7200235 "PL024069" ;
+    wdata:Q7200235 "PL024069" ;
 .
 
 <urn:mdciii:1603:16:616:2:24070>
@@ -3030,7 +3030,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Myslowice"@pol-Latn ;
-    wdata:q7200235 "PL024070" ;
+    wdata:Q7200235 "PL024070" ;
 .
 
 <urn:mdciii:1603:16:616:2:24071>
@@ -3042,7 +3042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Piekary Slaskie"@pol-Latn ;
-    wdata:q7200235 "PL024071" ;
+    wdata:Q7200235 "PL024071" ;
 .
 
 <urn:mdciii:1603:16:616:2:24072>
@@ -3054,7 +3054,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Ruda Slaska"@pol-Latn ;
-    wdata:q7200235 "PL024072" ;
+    wdata:Q7200235 "PL024072" ;
 .
 
 <urn:mdciii:1603:16:616:2:24073>
@@ -3066,7 +3066,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Rybnik"@pol-Latn ;
-    wdata:q7200235 "PL024073" ;
+    wdata:Q7200235 "PL024073" ;
 .
 
 <urn:mdciii:1603:16:616:2:24074>
@@ -3078,7 +3078,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Siemianowice Slaskie"@pol-Latn ;
-    wdata:q7200235 "PL024074" ;
+    wdata:Q7200235 "PL024074" ;
 .
 
 <urn:mdciii:1603:16:616:2:24075>
@@ -3090,7 +3090,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Sosnowiec"@pol-Latn ;
-    wdata:q7200235 "PL024075" ;
+    wdata:Q7200235 "PL024075" ;
 .
 
 <urn:mdciii:1603:16:616:2:24076>
@@ -3102,7 +3102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Swietochlowice"@pol-Latn ;
-    wdata:q7200235 "PL024076" ;
+    wdata:Q7200235 "PL024076" ;
 .
 
 <urn:mdciii:1603:16:616:2:24077>
@@ -3114,7 +3114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Tychy"@pol-Latn ;
-    wdata:q7200235 "PL024077" ;
+    wdata:Q7200235 "PL024077" ;
 .
 
 <urn:mdciii:1603:16:616:2:24078>
@@ -3126,7 +3126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Zabrze"@pol-Latn ;
-    wdata:q7200235 "PL024078" ;
+    wdata:Q7200235 "PL024078" ;
 .
 
 <urn:mdciii:1603:16:616:2:24079>
@@ -3138,7 +3138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:24> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:24> ;
     skos:prefLabel "Zory"@pol-Latn ;
-    wdata:q7200235 "PL024079" ;
+    wdata:Q7200235 "PL024079" ;
 .
 
 <urn:mdciii:1603:16:616:2:26001>
@@ -3150,7 +3150,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Buski"@pol-Latn ;
-    wdata:q7200235 "PL026001" ;
+    wdata:Q7200235 "PL026001" ;
 .
 
 <urn:mdciii:1603:16:616:2:26002>
@@ -3162,7 +3162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Jedrzejowski"@pol-Latn ;
-    wdata:q7200235 "PL026002" ;
+    wdata:Q7200235 "PL026002" ;
 .
 
 <urn:mdciii:1603:16:616:2:26003>
@@ -3174,7 +3174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Kazimierski"@pol-Latn ;
-    wdata:q7200235 "PL026003" ;
+    wdata:Q7200235 "PL026003" ;
 .
 
 <urn:mdciii:1603:16:616:2:26004>
@@ -3186,7 +3186,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Kielecki"@pol-Latn ;
-    wdata:q7200235 "PL026004" ;
+    wdata:Q7200235 "PL026004" ;
 .
 
 <urn:mdciii:1603:16:616:2:26005>
@@ -3198,7 +3198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Konecki"@pol-Latn ;
-    wdata:q7200235 "PL026005" ;
+    wdata:Q7200235 "PL026005" ;
 .
 
 <urn:mdciii:1603:16:616:2:26006>
@@ -3210,7 +3210,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Opatowski"@pol-Latn ;
-    wdata:q7200235 "PL026006" ;
+    wdata:Q7200235 "PL026006" ;
 .
 
 <urn:mdciii:1603:16:616:2:26007>
@@ -3222,7 +3222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Ostrowiecki"@pol-Latn ;
-    wdata:q7200235 "PL026007" ;
+    wdata:Q7200235 "PL026007" ;
 .
 
 <urn:mdciii:1603:16:616:2:26008>
@@ -3234,7 +3234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Pinczowski"@pol-Latn ;
-    wdata:q7200235 "PL026008" ;
+    wdata:Q7200235 "PL026008" ;
 .
 
 <urn:mdciii:1603:16:616:2:26009>
@@ -3246,7 +3246,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Sandomierski"@pol-Latn ;
-    wdata:q7200235 "PL026009" ;
+    wdata:Q7200235 "PL026009" ;
 .
 
 <urn:mdciii:1603:16:616:2:26010>
@@ -3258,7 +3258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Skarzyski"@pol-Latn ;
-    wdata:q7200235 "PL026010" ;
+    wdata:Q7200235 "PL026010" ;
 .
 
 <urn:mdciii:1603:16:616:2:26011>
@@ -3270,7 +3270,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Starachowicki"@pol-Latn ;
-    wdata:q7200235 "PL026011" ;
+    wdata:Q7200235 "PL026011" ;
 .
 
 <urn:mdciii:1603:16:616:2:26012>
@@ -3282,7 +3282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Staszowski"@pol-Latn ;
-    wdata:q7200235 "PL026012" ;
+    wdata:Q7200235 "PL026012" ;
 .
 
 <urn:mdciii:1603:16:616:2:26013>
@@ -3294,7 +3294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Wloszczowski"@pol-Latn ;
-    wdata:q7200235 "PL026013" ;
+    wdata:Q7200235 "PL026013" ;
 .
 
 <urn:mdciii:1603:16:616:2:26061>
@@ -3306,7 +3306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:26> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:26> ;
     skos:prefLabel "Kielce"@pol-Latn ;
-    wdata:q7200235 "PL026061" ;
+    wdata:Q7200235 "PL026061" ;
 .
 
 <urn:mdciii:1603:16:616:2:28001>
@@ -3318,7 +3318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Bartoszycki"@pol-Latn ;
-    wdata:q7200235 "PL028001" ;
+    wdata:Q7200235 "PL028001" ;
 .
 
 <urn:mdciii:1603:16:616:2:28002>
@@ -3330,7 +3330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Braniewski"@pol-Latn ;
-    wdata:q7200235 "PL028002" ;
+    wdata:Q7200235 "PL028002" ;
 .
 
 <urn:mdciii:1603:16:616:2:28003>
@@ -3342,7 +3342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Dzialdowski"@pol-Latn ;
-    wdata:q7200235 "PL028003" ;
+    wdata:Q7200235 "PL028003" ;
 .
 
 <urn:mdciii:1603:16:616:2:28004>
@@ -3354,7 +3354,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Elblaski"@pol-Latn ;
-    wdata:q7200235 "PL028004" ;
+    wdata:Q7200235 "PL028004" ;
 .
 
 <urn:mdciii:1603:16:616:2:28005>
@@ -3366,7 +3366,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Elcki"@pol-Latn ;
-    wdata:q7200235 "PL028005" ;
+    wdata:Q7200235 "PL028005" ;
 .
 
 <urn:mdciii:1603:16:616:2:28006>
@@ -3378,7 +3378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Gizycki"@pol-Latn ;
-    wdata:q7200235 "PL028006" ;
+    wdata:Q7200235 "PL028006" ;
 .
 
 <urn:mdciii:1603:16:616:2:28007>
@@ -3390,7 +3390,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Ilawski"@pol-Latn ;
-    wdata:q7200235 "PL028007" ;
+    wdata:Q7200235 "PL028007" ;
 .
 
 <urn:mdciii:1603:16:616:2:28008>
@@ -3402,7 +3402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Ketrzynski"@pol-Latn ;
-    wdata:q7200235 "PL028008" ;
+    wdata:Q7200235 "PL028008" ;
 .
 
 <urn:mdciii:1603:16:616:2:28009>
@@ -3414,7 +3414,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Lidzbarski"@pol-Latn ;
-    wdata:q7200235 "PL028009" ;
+    wdata:Q7200235 "PL028009" ;
 .
 
 <urn:mdciii:1603:16:616:2:28010>
@@ -3426,7 +3426,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Mragowski"@pol-Latn ;
-    wdata:q7200235 "PL028010" ;
+    wdata:Q7200235 "PL028010" ;
 .
 
 <urn:mdciii:1603:16:616:2:28011>
@@ -3438,7 +3438,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Nidzicki"@pol-Latn ;
-    wdata:q7200235 "PL028011" ;
+    wdata:Q7200235 "PL028011" ;
 .
 
 <urn:mdciii:1603:16:616:2:28012>
@@ -3450,7 +3450,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Nowomiejski"@pol-Latn ;
-    wdata:q7200235 "PL028012" ;
+    wdata:Q7200235 "PL028012" ;
 .
 
 <urn:mdciii:1603:16:616:2:28013>
@@ -3462,7 +3462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Olecki"@pol-Latn ;
-    wdata:q7200235 "PL028013" ;
+    wdata:Q7200235 "PL028013" ;
 .
 
 <urn:mdciii:1603:16:616:2:28014>
@@ -3474,7 +3474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Olsztynski"@pol-Latn ;
-    wdata:q7200235 "PL028014" ;
+    wdata:Q7200235 "PL028014" ;
 .
 
 <urn:mdciii:1603:16:616:2:28015>
@@ -3486,7 +3486,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Ostrodzki"@pol-Latn ;
-    wdata:q7200235 "PL028015" ;
+    wdata:Q7200235 "PL028015" ;
 .
 
 <urn:mdciii:1603:16:616:2:28016>
@@ -3498,7 +3498,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Piski"@pol-Latn ;
-    wdata:q7200235 "PL028016" ;
+    wdata:Q7200235 "PL028016" ;
 .
 
 <urn:mdciii:1603:16:616:2:28017>
@@ -3510,7 +3510,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Szczycienski"@pol-Latn ;
-    wdata:q7200235 "PL028017" ;
+    wdata:Q7200235 "PL028017" ;
 .
 
 <urn:mdciii:1603:16:616:2:28018>
@@ -3522,7 +3522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Goldapski"@pol-Latn ;
-    wdata:q7200235 "PL028018" ;
+    wdata:Q7200235 "PL028018" ;
 .
 
 <urn:mdciii:1603:16:616:2:28019>
@@ -3534,7 +3534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Wegorzewski"@pol-Latn ;
-    wdata:q7200235 "PL028019" ;
+    wdata:Q7200235 "PL028019" ;
 .
 
 <urn:mdciii:1603:16:616:2:28061>
@@ -3546,7 +3546,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Elblag"@pol-Latn ;
-    wdata:q7200235 "PL028061" ;
+    wdata:Q7200235 "PL028061" ;
 .
 
 <urn:mdciii:1603:16:616:2:28062>
@@ -3558,7 +3558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:28> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:28> ;
     skos:prefLabel "Olsztyn"@pol-Latn ;
-    wdata:q7200235 "PL028062" ;
+    wdata:Q7200235 "PL028062" ;
 .
 
 <urn:mdciii:1603:16:616:2:30001>
@@ -3570,7 +3570,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Chodzieski"@pol-Latn ;
-    wdata:q7200235 "PL030001" ;
+    wdata:Q7200235 "PL030001" ;
 .
 
 <urn:mdciii:1603:16:616:2:30002>
@@ -3582,7 +3582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Czarnkowsko-Trzcianecki"@pol-Latn ;
-    wdata:q7200235 "PL030002" ;
+    wdata:Q7200235 "PL030002" ;
 .
 
 <urn:mdciii:1603:16:616:2:30003>
@@ -3594,7 +3594,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Gnieznienski"@pol-Latn ;
-    wdata:q7200235 "PL030003" ;
+    wdata:Q7200235 "PL030003" ;
 .
 
 <urn:mdciii:1603:16:616:2:30004>
@@ -3606,7 +3606,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Gostynski"@pol-Latn ;
-    wdata:q7200235 "PL030004" ;
+    wdata:Q7200235 "PL030004" ;
 .
 
 <urn:mdciii:1603:16:616:2:30005>
@@ -3618,7 +3618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Grodziski"@pol-Latn ;
-    wdata:q7200235 "PL030005" ;
+    wdata:Q7200235 "PL030005" ;
 .
 
 <urn:mdciii:1603:16:616:2:30006>
@@ -3630,7 +3630,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Jarocinski"@pol-Latn ;
-    wdata:q7200235 "PL030006" ;
+    wdata:Q7200235 "PL030006" ;
 .
 
 <urn:mdciii:1603:16:616:2:30007>
@@ -3642,7 +3642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Kaliski"@pol-Latn ;
-    wdata:q7200235 "PL030007" ;
+    wdata:Q7200235 "PL030007" ;
 .
 
 <urn:mdciii:1603:16:616:2:30008>
@@ -3654,7 +3654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Kepinski"@pol-Latn ;
-    wdata:q7200235 "PL030008" ;
+    wdata:Q7200235 "PL030008" ;
 .
 
 <urn:mdciii:1603:16:616:2:30009>
@@ -3666,7 +3666,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Kolski"@pol-Latn ;
-    wdata:q7200235 "PL030009" ;
+    wdata:Q7200235 "PL030009" ;
 .
 
 <urn:mdciii:1603:16:616:2:30010>
@@ -3678,7 +3678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Koninski"@pol-Latn ;
-    wdata:q7200235 "PL030010" ;
+    wdata:Q7200235 "PL030010" ;
 .
 
 <urn:mdciii:1603:16:616:2:30011>
@@ -3690,7 +3690,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Koscianski"@pol-Latn ;
-    wdata:q7200235 "PL030011" ;
+    wdata:Q7200235 "PL030011" ;
 .
 
 <urn:mdciii:1603:16:616:2:30012>
@@ -3702,7 +3702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Krotoszynski"@pol-Latn ;
-    wdata:q7200235 "PL030012" ;
+    wdata:Q7200235 "PL030012" ;
 .
 
 <urn:mdciii:1603:16:616:2:30013>
@@ -3714,7 +3714,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Leszczynski"@pol-Latn ;
-    wdata:q7200235 "PL030013" ;
+    wdata:Q7200235 "PL030013" ;
 .
 
 <urn:mdciii:1603:16:616:2:30014>
@@ -3726,7 +3726,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Miedzychodzki"@pol-Latn ;
-    wdata:q7200235 "PL030014" ;
+    wdata:Q7200235 "PL030014" ;
 .
 
 <urn:mdciii:1603:16:616:2:30015>
@@ -3738,7 +3738,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Nowotomyski"@pol-Latn ;
-    wdata:q7200235 "PL030015" ;
+    wdata:Q7200235 "PL030015" ;
 .
 
 <urn:mdciii:1603:16:616:2:30016>
@@ -3750,7 +3750,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Obornicki"@pol-Latn ;
-    wdata:q7200235 "PL030016" ;
+    wdata:Q7200235 "PL030016" ;
 .
 
 <urn:mdciii:1603:16:616:2:30017>
@@ -3762,7 +3762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Ostrowski"@pol-Latn ;
-    wdata:q7200235 "PL030017" ;
+    wdata:Q7200235 "PL030017" ;
 .
 
 <urn:mdciii:1603:16:616:2:30018>
@@ -3774,7 +3774,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Ostrzeszowski"@pol-Latn ;
-    wdata:q7200235 "PL030018" ;
+    wdata:Q7200235 "PL030018" ;
 .
 
 <urn:mdciii:1603:16:616:2:30019>
@@ -3786,7 +3786,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Pilski"@pol-Latn ;
-    wdata:q7200235 "PL030019" ;
+    wdata:Q7200235 "PL030019" ;
 .
 
 <urn:mdciii:1603:16:616:2:30020>
@@ -3798,7 +3798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Pleszewski"@pol-Latn ;
-    wdata:q7200235 "PL030020" ;
+    wdata:Q7200235 "PL030020" ;
 .
 
 <urn:mdciii:1603:16:616:2:30021>
@@ -3810,7 +3810,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Poznanski"@pol-Latn ;
-    wdata:q7200235 "PL030021" ;
+    wdata:Q7200235 "PL030021" ;
 .
 
 <urn:mdciii:1603:16:616:2:30022>
@@ -3822,7 +3822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Rawicki"@pol-Latn ;
-    wdata:q7200235 "PL030022" ;
+    wdata:Q7200235 "PL030022" ;
 .
 
 <urn:mdciii:1603:16:616:2:30023>
@@ -3834,7 +3834,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Slupecki"@pol-Latn ;
-    wdata:q7200235 "PL030023" ;
+    wdata:Q7200235 "PL030023" ;
 .
 
 <urn:mdciii:1603:16:616:2:30024>
@@ -3846,7 +3846,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Szamotulski"@pol-Latn ;
-    wdata:q7200235 "PL030024" ;
+    wdata:Q7200235 "PL030024" ;
 .
 
 <urn:mdciii:1603:16:616:2:30025>
@@ -3858,7 +3858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Sredzki"@pol-Latn ;
-    wdata:q7200235 "PL030025" ;
+    wdata:Q7200235 "PL030025" ;
 .
 
 <urn:mdciii:1603:16:616:2:30026>
@@ -3870,7 +3870,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Sremski"@pol-Latn ;
-    wdata:q7200235 "PL030026" ;
+    wdata:Q7200235 "PL030026" ;
 .
 
 <urn:mdciii:1603:16:616:2:30027>
@@ -3882,7 +3882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Turecki"@pol-Latn ;
-    wdata:q7200235 "PL030027" ;
+    wdata:Q7200235 "PL030027" ;
 .
 
 <urn:mdciii:1603:16:616:2:30028>
@@ -3894,7 +3894,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Wagrowiecki"@pol-Latn ;
-    wdata:q7200235 "PL030028" ;
+    wdata:Q7200235 "PL030028" ;
 .
 
 <urn:mdciii:1603:16:616:2:30029>
@@ -3906,7 +3906,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Wolsztynski"@pol-Latn ;
-    wdata:q7200235 "PL030029" ;
+    wdata:Q7200235 "PL030029" ;
 .
 
 <urn:mdciii:1603:16:616:2:30030>
@@ -3918,7 +3918,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Wrzesinski"@pol-Latn ;
-    wdata:q7200235 "PL030030" ;
+    wdata:Q7200235 "PL030030" ;
 .
 
 <urn:mdciii:1603:16:616:2:30031>
@@ -3930,7 +3930,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Zlotowski"@pol-Latn ;
-    wdata:q7200235 "PL030031" ;
+    wdata:Q7200235 "PL030031" ;
 .
 
 <urn:mdciii:1603:16:616:2:30061>
@@ -3942,7 +3942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Kalisz"@pol-Latn ;
-    wdata:q7200235 "PL030061" ;
+    wdata:Q7200235 "PL030061" ;
 .
 
 <urn:mdciii:1603:16:616:2:30062>
@@ -3954,7 +3954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Konin"@pol-Latn ;
-    wdata:q7200235 "PL030062" ;
+    wdata:Q7200235 "PL030062" ;
 .
 
 <urn:mdciii:1603:16:616:2:30063>
@@ -3966,7 +3966,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Leszno"@pol-Latn ;
-    wdata:q7200235 "PL030063" ;
+    wdata:Q7200235 "PL030063" ;
 .
 
 <urn:mdciii:1603:16:616:2:30064>
@@ -3978,7 +3978,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:30> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:30> ;
     skos:prefLabel "Poznan"@pol-Latn ;
-    wdata:q7200235 "PL030064" ;
+    wdata:Q7200235 "PL030064" ;
 .
 
 <urn:mdciii:1603:16:616:2:32001>
@@ -3990,7 +3990,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Bialogardzki"@pol-Latn ;
-    wdata:q7200235 "PL032001" ;
+    wdata:Q7200235 "PL032001" ;
 .
 
 <urn:mdciii:1603:16:616:2:32002>
@@ -4002,7 +4002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Choszczenski"@pol-Latn ;
-    wdata:q7200235 "PL032002" ;
+    wdata:Q7200235 "PL032002" ;
 .
 
 <urn:mdciii:1603:16:616:2:32003>
@@ -4014,7 +4014,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Drawski"@pol-Latn ;
-    wdata:q7200235 "PL032003" ;
+    wdata:Q7200235 "PL032003" ;
 .
 
 <urn:mdciii:1603:16:616:2:32004>
@@ -4026,7 +4026,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Goleniowski"@pol-Latn ;
-    wdata:q7200235 "PL032004" ;
+    wdata:Q7200235 "PL032004" ;
 .
 
 <urn:mdciii:1603:16:616:2:32005>
@@ -4038,7 +4038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Gryficki"@pol-Latn ;
-    wdata:q7200235 "PL032005" ;
+    wdata:Q7200235 "PL032005" ;
 .
 
 <urn:mdciii:1603:16:616:2:32006>
@@ -4050,7 +4050,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Gryfinski"@pol-Latn ;
-    wdata:q7200235 "PL032006" ;
+    wdata:Q7200235 "PL032006" ;
 .
 
 <urn:mdciii:1603:16:616:2:32007>
@@ -4062,7 +4062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Kamienski"@pol-Latn ;
-    wdata:q7200235 "PL032007" ;
+    wdata:Q7200235 "PL032007" ;
 .
 
 <urn:mdciii:1603:16:616:2:32008>
@@ -4074,7 +4074,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Kolobrzeski"@pol-Latn ;
-    wdata:q7200235 "PL032008" ;
+    wdata:Q7200235 "PL032008" ;
 .
 
 <urn:mdciii:1603:16:616:2:32009>
@@ -4086,7 +4086,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Koszalinski"@pol-Latn ;
-    wdata:q7200235 "PL032009" ;
+    wdata:Q7200235 "PL032009" ;
 .
 
 <urn:mdciii:1603:16:616:2:32010>
@@ -4098,7 +4098,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Mysliborski"@pol-Latn ;
-    wdata:q7200235 "PL032010" ;
+    wdata:Q7200235 "PL032010" ;
 .
 
 <urn:mdciii:1603:16:616:2:32011>
@@ -4110,7 +4110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Policki"@pol-Latn ;
-    wdata:q7200235 "PL032011" ;
+    wdata:Q7200235 "PL032011" ;
 .
 
 <urn:mdciii:1603:16:616:2:32012>
@@ -4122,7 +4122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Pyrzycki"@pol-Latn ;
-    wdata:q7200235 "PL032012" ;
+    wdata:Q7200235 "PL032012" ;
 .
 
 <urn:mdciii:1603:16:616:2:32013>
@@ -4134,7 +4134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Slawienski"@pol-Latn ;
-    wdata:q7200235 "PL032013" ;
+    wdata:Q7200235 "PL032013" ;
 .
 
 <urn:mdciii:1603:16:616:2:32014>
@@ -4146,7 +4146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Stargardzki"@pol-Latn ;
-    wdata:q7200235 "PL032014" ;
+    wdata:Q7200235 "PL032014" ;
 .
 
 <urn:mdciii:1603:16:616:2:32015>
@@ -4158,7 +4158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Szczecinecki"@pol-Latn ;
-    wdata:q7200235 "PL032015" ;
+    wdata:Q7200235 "PL032015" ;
 .
 
 <urn:mdciii:1603:16:616:2:32016>
@@ -4170,7 +4170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Swidwinski"@pol-Latn ;
-    wdata:q7200235 "PL032016" ;
+    wdata:Q7200235 "PL032016" ;
 .
 
 <urn:mdciii:1603:16:616:2:32017>
@@ -4182,7 +4182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Walecki"@pol-Latn ;
-    wdata:q7200235 "PL032017" ;
+    wdata:Q7200235 "PL032017" ;
 .
 
 <urn:mdciii:1603:16:616:2:32018>
@@ -4194,7 +4194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Lobeski"@pol-Latn ;
-    wdata:q7200235 "PL032018" ;
+    wdata:Q7200235 "PL032018" ;
 .
 
 <urn:mdciii:1603:16:616:2:32061>
@@ -4206,7 +4206,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Koszalin"@pol-Latn ;
-    wdata:q7200235 "PL032061" ;
+    wdata:Q7200235 "PL032061" ;
 .
 
 <urn:mdciii:1603:16:616:2:32062>
@@ -4218,7 +4218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Szczecin"@pol-Latn ;
-    wdata:q7200235 "PL032062" ;
+    wdata:Q7200235 "PL032062" ;
 .
 
 <urn:mdciii:1603:16:616:2:32063>
@@ -4230,7 +4230,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:32> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:32> ;
     skos:prefLabel "Swinoujscie"@pol-Latn ;
-    wdata:q7200235 "PL032063" ;
+    wdata:Q7200235 "PL032063" ;
 .
 
 <urn:mdciii:1603:16:616:2:4001>
@@ -4242,7 +4242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Aleksandrowski"@pol-Latn ;
-    wdata:q7200235 "PL004001" ;
+    wdata:Q7200235 "PL004001" ;
 .
 
 <urn:mdciii:1603:16:616:2:4002>
@@ -4254,7 +4254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Brodnicki"@pol-Latn ;
-    wdata:q7200235 "PL004002" ;
+    wdata:Q7200235 "PL004002" ;
 .
 
 <urn:mdciii:1603:16:616:2:4003>
@@ -4266,7 +4266,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Bydgoski"@pol-Latn ;
-    wdata:q7200235 "PL004003" ;
+    wdata:Q7200235 "PL004003" ;
 .
 
 <urn:mdciii:1603:16:616:2:4004>
@@ -4278,7 +4278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Chelminski"@pol-Latn ;
-    wdata:q7200235 "PL004004" ;
+    wdata:Q7200235 "PL004004" ;
 .
 
 <urn:mdciii:1603:16:616:2:4005>
@@ -4290,7 +4290,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Golubsko-Dobrzynski"@pol-Latn ;
-    wdata:q7200235 "PL004005" ;
+    wdata:Q7200235 "PL004005" ;
 .
 
 <urn:mdciii:1603:16:616:2:4006>
@@ -4302,7 +4302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Grudziadzki"@pol-Latn ;
-    wdata:q7200235 "PL004006" ;
+    wdata:Q7200235 "PL004006" ;
 .
 
 <urn:mdciii:1603:16:616:2:4007>
@@ -4314,7 +4314,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Inowroclawski"@pol-Latn ;
-    wdata:q7200235 "PL004007" ;
+    wdata:Q7200235 "PL004007" ;
 .
 
 <urn:mdciii:1603:16:616:2:4008>
@@ -4326,7 +4326,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Lipnowski"@pol-Latn ;
-    wdata:q7200235 "PL004008" ;
+    wdata:Q7200235 "PL004008" ;
 .
 
 <urn:mdciii:1603:16:616:2:4009>
@@ -4338,7 +4338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Mogilenski"@pol-Latn ;
-    wdata:q7200235 "PL004009" ;
+    wdata:Q7200235 "PL004009" ;
 .
 
 <urn:mdciii:1603:16:616:2:4010>
@@ -4350,7 +4350,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Nakielski"@pol-Latn ;
-    wdata:q7200235 "PL004010" ;
+    wdata:Q7200235 "PL004010" ;
 .
 
 <urn:mdciii:1603:16:616:2:4011>
@@ -4362,7 +4362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Radziejowski"@pol-Latn ;
-    wdata:q7200235 "PL004011" ;
+    wdata:Q7200235 "PL004011" ;
 .
 
 <urn:mdciii:1603:16:616:2:4012>
@@ -4374,7 +4374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Rypinski"@pol-Latn ;
-    wdata:q7200235 "PL004012" ;
+    wdata:Q7200235 "PL004012" ;
 .
 
 <urn:mdciii:1603:16:616:2:4013>
@@ -4386,7 +4386,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Sepolenski"@pol-Latn ;
-    wdata:q7200235 "PL004013" ;
+    wdata:Q7200235 "PL004013" ;
 .
 
 <urn:mdciii:1603:16:616:2:4014>
@@ -4398,7 +4398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Swiecki"@pol-Latn ;
-    wdata:q7200235 "PL004014" ;
+    wdata:Q7200235 "PL004014" ;
 .
 
 <urn:mdciii:1603:16:616:2:4015>
@@ -4410,7 +4410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Torunski"@pol-Latn ;
-    wdata:q7200235 "PL004015" ;
+    wdata:Q7200235 "PL004015" ;
 .
 
 <urn:mdciii:1603:16:616:2:4016>
@@ -4422,7 +4422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Tucholski"@pol-Latn ;
-    wdata:q7200235 "PL004016" ;
+    wdata:Q7200235 "PL004016" ;
 .
 
 <urn:mdciii:1603:16:616:2:4017>
@@ -4434,7 +4434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Wabrzeski"@pol-Latn ;
-    wdata:q7200235 "PL004017" ;
+    wdata:Q7200235 "PL004017" ;
 .
 
 <urn:mdciii:1603:16:616:2:4018>
@@ -4446,7 +4446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Wloclawski"@pol-Latn ;
-    wdata:q7200235 "PL004018" ;
+    wdata:Q7200235 "PL004018" ;
 .
 
 <urn:mdciii:1603:16:616:2:4019>
@@ -4458,7 +4458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Zninski"@pol-Latn ;
-    wdata:q7200235 "PL004019" ;
+    wdata:Q7200235 "PL004019" ;
 .
 
 <urn:mdciii:1603:16:616:2:4061>
@@ -4470,7 +4470,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Bydgoszcz"@pol-Latn ;
-    wdata:q7200235 "PL004061" ;
+    wdata:Q7200235 "PL004061" ;
 .
 
 <urn:mdciii:1603:16:616:2:4062>
@@ -4482,7 +4482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Grudziadz"@pol-Latn ;
-    wdata:q7200235 "PL004062" ;
+    wdata:Q7200235 "PL004062" ;
 .
 
 <urn:mdciii:1603:16:616:2:4063>
@@ -4494,7 +4494,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Torun"@pol-Latn ;
-    wdata:q7200235 "PL004063" ;
+    wdata:Q7200235 "PL004063" ;
 .
 
 <urn:mdciii:1603:16:616:2:4064>
@@ -4506,7 +4506,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:4> ;
     skos:prefLabel "Wloclawek"@pol-Latn ;
-    wdata:q7200235 "PL004064" ;
+    wdata:Q7200235 "PL004064" ;
 .
 
 <urn:mdciii:1603:16:616:2:6001>
@@ -4518,7 +4518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Bialski"@pol-Latn ;
-    wdata:q7200235 "PL006001" ;
+    wdata:Q7200235 "PL006001" ;
 .
 
 <urn:mdciii:1603:16:616:2:6002>
@@ -4530,7 +4530,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Bilgorajski"@pol-Latn ;
-    wdata:q7200235 "PL006002" ;
+    wdata:Q7200235 "PL006002" ;
 .
 
 <urn:mdciii:1603:16:616:2:6003>
@@ -4542,7 +4542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Chelmski"@pol-Latn ;
-    wdata:q7200235 "PL006003" ;
+    wdata:Q7200235 "PL006003" ;
 .
 
 <urn:mdciii:1603:16:616:2:6004>
@@ -4554,7 +4554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Hrubieszowski"@pol-Latn ;
-    wdata:q7200235 "PL006004" ;
+    wdata:Q7200235 "PL006004" ;
 .
 
 <urn:mdciii:1603:16:616:2:6005>
@@ -4566,7 +4566,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Janowski"@pol-Latn ;
-    wdata:q7200235 "PL006005" ;
+    wdata:Q7200235 "PL006005" ;
 .
 
 <urn:mdciii:1603:16:616:2:6006>
@@ -4578,7 +4578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Krasnostawski"@pol-Latn ;
-    wdata:q7200235 "PL006006" ;
+    wdata:Q7200235 "PL006006" ;
 .
 
 <urn:mdciii:1603:16:616:2:6007>
@@ -4590,7 +4590,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Krasnicki"@pol-Latn ;
-    wdata:q7200235 "PL006007" ;
+    wdata:Q7200235 "PL006007" ;
 .
 
 <urn:mdciii:1603:16:616:2:6008>
@@ -4602,7 +4602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Lubartowski"@pol-Latn ;
-    wdata:q7200235 "PL006008" ;
+    wdata:Q7200235 "PL006008" ;
 .
 
 <urn:mdciii:1603:16:616:2:6009>
@@ -4614,7 +4614,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Lubelski"@pol-Latn ;
-    wdata:q7200235 "PL006009" ;
+    wdata:Q7200235 "PL006009" ;
 .
 
 <urn:mdciii:1603:16:616:2:6010>
@@ -4626,7 +4626,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Leczynski"@pol-Latn ;
-    wdata:q7200235 "PL006010" ;
+    wdata:Q7200235 "PL006010" ;
 .
 
 <urn:mdciii:1603:16:616:2:6011>
@@ -4638,7 +4638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Lukowski"@pol-Latn ;
-    wdata:q7200235 "PL006011" ;
+    wdata:Q7200235 "PL006011" ;
 .
 
 <urn:mdciii:1603:16:616:2:6012>
@@ -4650,7 +4650,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Opolski"@pol-Latn ;
-    wdata:q7200235 "PL006012" ;
+    wdata:Q7200235 "PL006012" ;
 .
 
 <urn:mdciii:1603:16:616:2:6013>
@@ -4662,7 +4662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Parczewski"@pol-Latn ;
-    wdata:q7200235 "PL006013" ;
+    wdata:Q7200235 "PL006013" ;
 .
 
 <urn:mdciii:1603:16:616:2:6014>
@@ -4674,7 +4674,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Pulawski"@pol-Latn ;
-    wdata:q7200235 "PL006014" ;
+    wdata:Q7200235 "PL006014" ;
 .
 
 <urn:mdciii:1603:16:616:2:6015>
@@ -4686,7 +4686,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Radzynski"@pol-Latn ;
-    wdata:q7200235 "PL006015" ;
+    wdata:Q7200235 "PL006015" ;
 .
 
 <urn:mdciii:1603:16:616:2:6016>
@@ -4698,7 +4698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Rycki"@pol-Latn ;
-    wdata:q7200235 "PL006016" ;
+    wdata:Q7200235 "PL006016" ;
 .
 
 <urn:mdciii:1603:16:616:2:6017>
@@ -4710,7 +4710,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Swidnicki"@pol-Latn ;
-    wdata:q7200235 "PL006017" ;
+    wdata:Q7200235 "PL006017" ;
 .
 
 <urn:mdciii:1603:16:616:2:6018>
@@ -4722,7 +4722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Tomaszowski"@pol-Latn ;
-    wdata:q7200235 "PL006018" ;
+    wdata:Q7200235 "PL006018" ;
 .
 
 <urn:mdciii:1603:16:616:2:6019>
@@ -4734,7 +4734,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Wlodawski"@pol-Latn ;
-    wdata:q7200235 "PL006019" ;
+    wdata:Q7200235 "PL006019" ;
 .
 
 <urn:mdciii:1603:16:616:2:6020>
@@ -4746,7 +4746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Zamojski"@pol-Latn ;
-    wdata:q7200235 "PL006020" ;
+    wdata:Q7200235 "PL006020" ;
 .
 
 <urn:mdciii:1603:16:616:2:6061>
@@ -4758,7 +4758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Biala Podlaska"@pol-Latn ;
-    wdata:q7200235 "PL006061" ;
+    wdata:Q7200235 "PL006061" ;
 .
 
 <urn:mdciii:1603:16:616:2:6062>
@@ -4770,7 +4770,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Chelm"@pol-Latn ;
-    wdata:q7200235 "PL006062" ;
+    wdata:Q7200235 "PL006062" ;
 .
 
 <urn:mdciii:1603:16:616:2:6063>
@@ -4782,7 +4782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Lublin"@pol-Latn ;
-    wdata:q7200235 "PL006063" ;
+    wdata:Q7200235 "PL006063" ;
 .
 
 <urn:mdciii:1603:16:616:2:6064>
@@ -4794,7 +4794,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:6> ;
     skos:prefLabel "Zamosc"@pol-Latn ;
-    wdata:q7200235 "PL006064" ;
+    wdata:Q7200235 "PL006064" ;
 .
 
 <urn:mdciii:1603:16:616:2:8001>
@@ -4806,7 +4806,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Gorzowski"@pol-Latn ;
-    wdata:q7200235 "PL008001" ;
+    wdata:Q7200235 "PL008001" ;
 .
 
 <urn:mdciii:1603:16:616:2:8002>
@@ -4818,7 +4818,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Krosnienski"@pol-Latn ;
-    wdata:q7200235 "PL008002" ;
+    wdata:Q7200235 "PL008002" ;
 .
 
 <urn:mdciii:1603:16:616:2:8003>
@@ -4830,7 +4830,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Miedzyrzecki"@pol-Latn ;
-    wdata:q7200235 "PL008003" ;
+    wdata:Q7200235 "PL008003" ;
 .
 
 <urn:mdciii:1603:16:616:2:8004>
@@ -4842,7 +4842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Nowosolski"@pol-Latn ;
-    wdata:q7200235 "PL008004" ;
+    wdata:Q7200235 "PL008004" ;
 .
 
 <urn:mdciii:1603:16:616:2:8005>
@@ -4854,7 +4854,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Slubicki"@pol-Latn ;
-    wdata:q7200235 "PL008005" ;
+    wdata:Q7200235 "PL008005" ;
 .
 
 <urn:mdciii:1603:16:616:2:8006>
@@ -4866,7 +4866,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Strzelecko-Drezdenecki"@pol-Latn ;
-    wdata:q7200235 "PL008006" ;
+    wdata:Q7200235 "PL008006" ;
 .
 
 <urn:mdciii:1603:16:616:2:8007>
@@ -4878,7 +4878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Sulecinski"@pol-Latn ;
-    wdata:q7200235 "PL008007" ;
+    wdata:Q7200235 "PL008007" ;
 .
 
 <urn:mdciii:1603:16:616:2:8008>
@@ -4890,7 +4890,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Swiebodzinski"@pol-Latn ;
-    wdata:q7200235 "PL008008" ;
+    wdata:Q7200235 "PL008008" ;
 .
 
 <urn:mdciii:1603:16:616:2:8009>
@@ -4902,7 +4902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Zielonogorski"@pol-Latn ;
-    wdata:q7200235 "PL008009" ;
+    wdata:Q7200235 "PL008009" ;
 .
 
 <urn:mdciii:1603:16:616:2:8010>
@@ -4914,7 +4914,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Zaganski"@pol-Latn ;
-    wdata:q7200235 "PL008010" ;
+    wdata:Q7200235 "PL008010" ;
 .
 
 <urn:mdciii:1603:16:616:2:8011>
@@ -4926,7 +4926,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Zarski"@pol-Latn ;
-    wdata:q7200235 "PL008011" ;
+    wdata:Q7200235 "PL008011" ;
 .
 
 <urn:mdciii:1603:16:616:2:8012>
@@ -4938,7 +4938,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Wschowski"@pol-Latn ;
-    wdata:q7200235 "PL008012" ;
+    wdata:Q7200235 "PL008012" ;
 .
 
 <urn:mdciii:1603:16:616:2:8061>
@@ -4950,7 +4950,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Gorzow Wielkopolski"@pol-Latn ;
-    wdata:q7200235 "PL008061" ;
+    wdata:Q7200235 "PL008061" ;
 .
 
 <urn:mdciii:1603:16:616:2:8062>
@@ -4962,6 +4962,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:616:1:8> ;
     skos:prefLabel "Zielona Gora"@pol-Latn ;
-    wdata:q7200235 "PL008062" ;
+    wdata:Q7200235 "PL008062" ;
 .
 

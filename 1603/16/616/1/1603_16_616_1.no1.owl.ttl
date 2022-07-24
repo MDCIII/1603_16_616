@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Dolnośląskie"@pol-Latn ;
-    wdata:q7200235 "PL002" ;
+    wdata:Q7200235 "PL002" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Łódzkie"@pol-Latn ;
-    wdata:q7200235 "PL010" ;
+    wdata:Q7200235 "PL010" ;
 .
 
 <urn:mdciii:1603:16:616:1:12>
@@ -71,7 +71,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Małopolskie"@pol-Latn ;
-    wdata:q7200235 "PL012" ;
+    wdata:Q7200235 "PL012" ;
 .
 
 <urn:mdciii:1603:16:616:1:14>
@@ -82,7 +82,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Mazowieckie"@pol-Latn ;
-    wdata:q7200235 "PL014" ;
+    wdata:Q7200235 "PL014" ;
 .
 
 <urn:mdciii:1603:16:616:1:16>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Opolskie"@pol-Latn ;
-    wdata:q7200235 "PL016" ;
+    wdata:Q7200235 "PL016" ;
 .
 
 <urn:mdciii:1603:16:616:1:18>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Podkarpackie"@pol-Latn ;
-    wdata:q7200235 "PL018" ;
+    wdata:Q7200235 "PL018" ;
 .
 
 <urn:mdciii:1603:16:616:1:20>
@@ -115,7 +115,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Podlaskie"@pol-Latn ;
-    wdata:q7200235 "PL020" ;
+    wdata:Q7200235 "PL020" ;
 .
 
 <urn:mdciii:1603:16:616:1:22>
@@ -126,7 +126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:22" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Pomorskie"@pol-Latn ;
-    wdata:q7200235 "PL022" ;
+    wdata:Q7200235 "PL022" ;
 .
 
 <urn:mdciii:1603:16:616:1:24>
@@ -137,7 +137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:24" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Śląskie"@pol-Latn ;
-    wdata:q7200235 "PL024" ;
+    wdata:Q7200235 "PL024" ;
 .
 
 <urn:mdciii:1603:16:616:1:26>
@@ -148,7 +148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:26" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Świętokrzyskie"@pol-Latn ;
-    wdata:q7200235 "PL026" ;
+    wdata:Q7200235 "PL026" ;
 .
 
 <urn:mdciii:1603:16:616:1:28>
@@ -159,7 +159,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:28" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Warmińsko-Mazurskie"@pol-Latn ;
-    wdata:q7200235 "PL028" ;
+    wdata:Q7200235 "PL028" ;
 .
 
 <urn:mdciii:1603:16:616:1:30>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:30" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Wielkopolskie"@pol-Latn ;
-    wdata:q7200235 "PL030" ;
+    wdata:Q7200235 "PL030" ;
 .
 
 <urn:mdciii:1603:16:616:1:32>
@@ -181,7 +181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:32" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Zachodniopomorskie"@pol-Latn ;
-    wdata:q7200235 "PL032" ;
+    wdata:Q7200235 "PL032" ;
 .
 
 <urn:mdciii:1603:16:616:1:4>
@@ -192,7 +192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Kujawsko-Pomorskie"@pol-Latn ;
-    wdata:q7200235 "PL004" ;
+    wdata:Q7200235 "PL004" ;
 .
 
 <urn:mdciii:1603:16:616:1:6>
@@ -203,7 +203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Lubelskie"@pol-Latn ;
-    wdata:q7200235 "PL006" ;
+    wdata:Q7200235 "PL006" ;
 .
 
 <urn:mdciii:1603:16:616:1:8>
@@ -214,6 +214,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:616:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:616:0> ;
     skos:prefLabel "Lubuskie"@pol-Latn ;
-    wdata:q7200235 "PL008" ;
+    wdata:Q7200235 "PL008" ;
 .
 
